@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OUVC - Over/Under Value Checker (Clean Foundation)
 
 This is a clean, organized foundation for the OUVC project - a comprehensive analysis tool for both cryptocurrencies and Dubai real estate.
@@ -167,3 +168,6 @@ python main.py
 - **Production Ready**: Clean error handling and logging
 
 This foundation gives you a solid, clean base to continue building with GitHub Copilot! 🚀
+=======
+# OUVC-valuation-of-crypto-and-real-estate-assets
+>>>>>>> 44efe417adeeab729c86dfb262ef10b6681653e1
