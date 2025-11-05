@@ -3,28 +3,52 @@
 Core algorithm for quick cryptocurrency valuation
 """
 
-from typing import Dict
+from typing import Dict, Optional
 
 
-def run_undervalued_test(coin_data: Dict, whitepaper_data: Dict) -> Dict:
+def run_undervalued_test(crypto_name: str = None,
+                        new_coins_per_year: float = 0,
+                        value_locked: float = 0,
+                        coin_data: Optional[Dict] = None) -> Dict:
     """
     Performs the signature 60-second undervalued test
-    
+
     Args:
-        coin_data: Market data from data_fetcher
-        whitepaper_data: Manual input data (inflation, value locked)
-        
+        crypto_name: Name of cryptocurrency (optional)
+        new_coins_per_year: Annual inflation in new coins (manual input)
+        value_locked: Total Value Locked in USD (manual input or from API)
+        coin_data: Market data from CryptoDataFetcher (optional, contains API data)
+
     Returns:
         dict: Analysis results with verdict
     """
-    
-    price = coin_data["price"]
-    circulating = coin_data["circulating"]
-    max_supply = coin_data.get("max_supply") or coin_data.get("total_supply")
-    
-    # Get whitepaper metrics
-    new_coins_per_year = whitepaper_data.get("new_coins_per_year", 0)
-    value_locked_usd = whitepaper_data.get("value_locked_usd", 0)
+
+    if not coin_data:
+        # Manual mode - create minimal coin_data
+        coin_data = {
+            "name": crypto_name or "Unknown",
+            "price": 0,
+            "circulating": 1,
+            "max_supply": 1,
+            "value_locked": value_locked
+        }
+
+    price = coin_data.get("price", 0)
+    circulating = coin_data.get("circulating", 1)
+    max_supply = coin_data.get("max_supply") or coin_data.get("total_supply", circulating)
+
+    # Get TVL - prioritize coin_data (from API) over manual input
+    value_locked_usd = coin_data.get("value_locked", value_locked)
+
+    # Calculate new coins per year if not provided
+    if new_coins_per_year == 0 and "circulating" in coin_data and "total_supply" in coin_data:
+        total = coin_data.get("total_supply", 0)
+        circ = coin_data.get("circulating", 1)
+        # Estimate annual inflation (very rough approximation)
+        if total > circ:
+            remaining = total - circ
+            # Assume remaining supply unlocks over next 5 years
+            new_coins_per_year = remaining / 5
     
     # 1. Calculate Inflation Rate
     inflation_rate = (new_coins_per_year / circulating) * 100 if circulating > 0 else 0
@@ -43,17 +67,19 @@ def run_undervalued_test(coin_data: Dict, whitepaper_data: Dict) -> Dict:
     verdict = determine_verdict(inflation_signal, valuation_signal)
     
     return {
-        "coin_name": coin_data["name"],
+        "coin_name": coin_data.get("name", crypto_name),
         "price": price,
         "circulating_supply": circulating,
         "max_supply": max_supply,
         "inflation_rate": round(inflation_rate, 2),
         "fdmc": fdmc,
         "value_locked": value_locked_usd,
-        "value_ratio": round(value_ratio, 2) if value_ratio else None,
+        "fdmc_to_value_locked": round(value_ratio, 2) if value_ratio else None,
         "inflation_signal": inflation_signal,
         "valuation_signal": valuation_signal,
-        "overall_verdict": verdict,
+        "verdict": verdict,
+        "overall_verdict": verdict,  # Keep for backward compatibility
+        "new_coins_per_year": new_coins_per_year,
         "key_metrics": {
             "price_usd": price,
             "inflation_pct": round(inflation_rate, 2),
