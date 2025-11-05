@@ -1,0 +1,2884 @@
+{
+  "hits": [
+    {
+      "id": 9397996,
+      "ownerID": 2463376,
+      "userExternalID": "2463376",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+        "lat": 25.17731883819991,
+        "lng": 55.3145995423444
+      },
+      "geography": {
+        "lat": 25.17731883819991,
+        "lng": 55.3145995423444
+      },
+      "purpose": "for-rent",
+      "price": 15999.0,
+      "product": "superhot",
+      "productLabel": "default",
+      "productTruBrokerScore": 0,
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "HH.THCREST.2050",
+      "projectNumber": null,
+      "permitNumber": null,
+      "title": "Fully Furnished | Prime Location | Negotiable",
+      "title_l1": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0631\u062c \u0630\u0627 \u0643\u0631\u064a\u0633\u062a B\u060c\u0630\u0627 \u0643\u0631\u064a\u0633\u062a\u060c\u0634\u0648\u0628\u0627 \u0647\u0627\u0631\u062a\u0644\u0627\u0646\u062f 2 \u063a\u0631\u0641 15999 \u062f\u0631\u0647\u0645 - 12708951",
+      "title_l2": "\u4f4d\u4e8e\u82cf\u5df4\u54c8\u7279\u5170\u793e\u533a\uff0c\u5dc5\u5cf0\u5927\u53a6\uff0c\u5dc5\u5cf0\u5927\u53a6B\u5ea7 2 \u5367\u5ba4\u7684\u516c\u5bd3 15999 AED - 12708951",
+      "title_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0421\u043e\u0431\u0445\u0430 \u0425\u0430\u0440\u0442\u043b\u0430\u043d\u0434\uff0c\u041a\u0440\u0435\u0441\u0442\uff0c\u041a\u0440\u0435\u0441\u0442 \u0422\u0430\u0443\u044d\u0440 \u0411, 2 c\u043f\u0430\u043b\u044c\u043d\u0438, 15999 AED - 12708951",
+      "externalID": "12708951",
+      "slug": "details_12708951",
+      "location": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "5001",
+          "name": "UAE",
+          "name_l1": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+          "name_l2": "\u963f\u8054\u914b",
+          "name_l3": "\u041e\u0410\u042d",
+          "slug": "/uae"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "5002",
+          "name": "Dubai",
+          "name_l1": "\u062f\u0628\u064a",
+          "name_l2": "\u8fea\u62dc",
+          "name_l3": "\u0414\u0443\u0431\u0430\u0439",
+          "slug": "/dubai"
+        },
+        {
+          "id": 835,
+          "level": 2,
+          "externalID": "8949",
+          "name": "Sobha Hartland",
+          "name_l1": "\u0634\u0648\u0628\u0627 \u0647\u0627\u0631\u062a\u0644\u0627\u0646\u062f",
+          "name_l2": "\u82cf\u5df4\u54c8\u7279\u5170\u793e\u533a",
+          "name_l3": "\u0421\u043e\u0431\u0445\u0430 \u0425\u0430\u0440\u0442\u043b\u0430\u043d\u0434",
+          "slug": "/dubai/sobha-hartland",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 75591,
+          "level": 3,
+          "externalID": "15102",
+          "name": "The Crest",
+          "name_l1": "\u0630\u0627 \u0643\u0631\u064a\u0633\u062a",
+          "name_l2": "\u5dc5\u5cf0\u5927\u53a6",
+          "name_l3": "\u041a\u0440\u0435\u0441\u0442",
+          "slug": "/dubai/sobha-hartland/the-crest"
+        },
+        {
+          "id": 75593,
+          "level": 4,
+          "externalID": "15104",
+          "name": "The Crest Tower B",
+          "name_l1": "\u0628\u0631\u062c \u0630\u0627 \u0643\u0631\u064a\u0633\u062a B",
+          "name_l2": "\u5dc5\u5cf0\u5927\u53a6B\u5ea7",
+          "name_l3": "\u041a\u0440\u0435\u0441\u0442 \u0422\u0430\u0443\u044d\u0440 \u0411",
+          "slug": "/dubai/sobha-hartland/the-crest/the-crest-tower-b",
+          "type": "condo-building"
+        }
+      ],
+      "category": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "1",
+          "name": "Residential",
+          "name_l1": "\u0633\u0643\u0646\u064a",
+          "name_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "name_l3": "\u0416\u0438\u043b\u044b\u0435",
+          "slug": "residential",
+          "slug_l1": "residential",
+          "slug_l2": "residential",
+          "slug_l3": "residential",
+          "nameSingular": "Residential",
+          "nameSingular_l1": "\u0633\u0643\u0646\u064a",
+          "nameSingular_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "nameSingular_l3": "\u0416\u0438\u043b\u044b\u0435"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "4",
+          "name": "Apartments",
+          "name_l1": "\u0634\u0642\u0642",
+          "name_l2": "\u516c\u5bd3",
+          "name_l3": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b",
+          "slug": "apartments",
+          "slug_l1": "apartments",
+          "slug_l2": "apartments",
+          "slug_l3": "apartments",
+          "nameSingular": "Apartment",
+          "nameSingular_l1": "\u0634\u0642\u0629",
+          "nameSingular_l2": "\u516c\u5bd3",
+          "nameSingular_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+      ],
+      "project": {
+        "id": 5872266,
+        "externalID": "906",
+        "completionStatus": "under-construction",
+        "agency": {
+          "externalID": "551",
+          "name": "Sobha Realty",
+          "name_l1": "\u0645\u062c\u0645\u0648\u0639\u0629 \u0634\u0648\u0628\u0627",
+          "name_l2": "Sobha Realty",
+          "name_l3": "Sobha Realty",
+          "slug": "sobha-realty",
+          "slug_l1": "\u0645\u062c\u0645\u0648\u0639\u0629-\u0634\u0648\u0628\u0627",
+          "slug_l2": "sobha-realty",
+          "slug_l3": "sobha-realty"
+        }
+      },
+      "createdAt": 1756998527.0,
+      "updatedAt": 1762337567.0,
+      "reactivatedAt": 1756998527.0,
+      "rooms": 2,
+      "baths": 2,
+      "area": 75.06565632,
+      "score": 100,
+      "score_l1": 91,
+      "score_l2": 75,
+      "score_l3": 75,
+      "boostedScore_l1": 840,
+      "boostedScore_l2": 840,
+      "boostedScore_l3": 840,
+      "deltaScore_l1": 330,
+      "deltaScore_l2": 330,
+      "deltaScore_l3": 330,
+      "coverPhoto": {
+        "id": 793045933,
+        "externalID": "234805575",
+        "title": "WhatsApp Image 2025-09-04 at 7.01. 51 PM. jpeg",
+        "orderIndex": 0,
+        "nimaScore": 8.892648690292845,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/793045933/c12b65aed58c43f98aafe10f914169ea",
+        "main": true,
+        "type": "listing"
+      },
+      "photoCount": 45,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+        "mobile": "+971559557640",
+        "whatsapp": "971545695868",
+        "proxyPhone": "+97148757251",
+        "mobileNumbers": [
+          "+971559557640"
+        ]
+      },
+      "contactMethodAvailability": {
+        "whatsapp": true,
+        "sms": true,
+        "email": true,
+        "call": true
+      },
+      "contactName": "Ahmad Al Saleh",
+      "agency": {
+        "id": 29874478,
+        "objectID": 29874478,
+        "name": "Rise And Chill Holiday Homes",
+        "name_l1": "\u0631\u0627\u064a\u0632 \u0627\u0646\u062f \u062a\u0634\u064a\u0644 \u0644\u062a\u0627\u062c\u064a\u0631 \u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u0627\u062a",
+        "name_l2": "Rise And Chill Holiday Homes",
+        "name_l3": "Rise And Chill Holiday Homes",
+        "externalID": "106331",
+        "product": "premium",
+        "productScore": 2,
+        "location": "Dubai",
+        "location_l1": "\u062f\u0628\u064a",
+        "location_l2": "\u8fea\u62dc",
+        "location_l3": "\u0414\u0443\u0431\u0430\u0439",
+        "licenses": [],
+        "logo": {
+          "id": 757077841,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/757077841/87dd7fa612f542ef8a9974373b1e70d3"
+        },
+        "slug": "rise-and-chill-holiday-homes-106331",
+        "slug_l1": "rise-and-chill-holiday-homes-106331",
+        "slug_l2": "rise-and-chill-holiday-homes-106331",
+        "slug_l3": "rise-and-chill-holiday-homes-106331",
+        "tr": 4,
+        "tier": 4,
+        "roles": [
+          "hide_agents_brn_number",
+          "hide_ads_permit_number"
+        ],
+        "active": true,
+        "createdAt": "2025-01-20T11:21:25+00:00",
+        "commercialNumber": null,
+        "shortNumber": null,
+        "type": "agency",
+        "performanceCohort": "overachieving"
+      },
+      "hash": "d816c37",
+      "keywords": [
+        "new",
+        "luxury",
+        "pool",
+        "modern",
+        "furnished",
+        "parking",
+        "wardrobe",
+        "maids",
+        "kitchen",
+        "family",
+        "private",
+        "spacious",
+        "community",
+        "garden",
+        "fitted",
+        "burj",
+        "burj khalifa",
+        "balcony",
+        "fully furnished",
+        "ready"
+      ],
+      "keywords_l1": [
+        "\u062c\u062f\u064a\u062f\u0629",
+        "\u062e\u0627\u0635",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u0628\u0631\u062c",
+        "\u0645\u0648\u062f\u0631\u0646",
+        "\u0645\u062c\u0645\u0651\u0639 \u0633\u0643\u0646\u064a",
+        "\u0644\u0644\u0639\u0648\u0627\u0626\u0644",
+        "\u0641\u0627\u062e\u0631\u0629",
+        "\u0628\u0644\u0643\u0648\u0646\u0629",
+        "\u062e\u062f\u0645",
+        "\u0645\u0641\u0631\u0648\u0634 \u0628\u0627\u0644\u0643\u0627\u0645\u0644",
+        "\u062c\u0627\u0647\u0632",
+        "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0629",
+        "\u0645\u0637\u0628\u062e",
+        "\u062c\u062f\u064a\u062f\u0629 \u0627\u0648\u0644 \u0633\u0627\u0643\u0646",
+        "\u0645\u0624\u062b\u062b\u0629",
+        "\u0627\u064a\u062c\u0627\u0631 \u062c\u062f\u064a\u062f",
+        "\u0645\u0633\u0628\u062d",
+        "\u0648\u0627\u0633\u0639\u0629",
+        "\u062d\u062f\u064a\u0642\u0629",
+        "\u0645\u0641\u0631\u0648\u0634",
+        "\u0628\u0631\u062c \u062e\u0644\u064a\u0641\u0629",
+        "\u062e\u0632\u0627\u0646\u0629 \u0645\u0644\u0627\u0628\u0633",
+        "\u062d\u062f\u064a\u062b\u0629",
+        "\u0639\u0648\u0627\u0626\u0644",
+        "\u0643\u0628\u064a\u0631\u0629",
+        "\u062c\u0627\u0647\u0632\u0629"
+      ],
+      "isVerified": true,
+      "verification": {
+        "updatedAt": 1762337572.395621,
+        "eligible": true,
+        "status": "verified",
+        "verifiedAt": 1762337567.0,
+        "trucheckedAt": 1762337567.0
+      },
+      "verifiedScore": 0,
+      "verifiedPopularScore": 0,
+      "trucheckedScore": 1762337567.0,
+      "trucheckedPopularScore": 1762337567.0,
+      "truBrokerScore": 0,
+      "occupancyStatus": "vacant",
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {
+        "dldPropertySK": "12708951"
+      },
+      "type": "property",
+      "ownerAgent": {
+        "externalID": "2463376",
+        "name": "Ahmad Al Saleh",
+        "name_l1": "Ahmad Al Saleh",
+        "name_l2": "Ahmad Al Saleh",
+        "name_l3": "Ahmad Al Saleh",
+        "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/757075991/2c004f52239a4ab79cedbc57b231ff96",
+        "user_image_id": 757075991,
+        "isTruBroker": true,
+        "slug": "ahmad-al-saleh-2463376",
+        "state": "active",
+        "isProfileCompleted": true,
+        "isComplete": true
+      },
+      "amenities": [
+        "Waste Disposal",
+        "First Aid Medical Center",
+        "Gym or Health Club",
+        "Swimming Pool",
+        "Maintenance Staff",
+        "Kids Play Area",
+        "Lawn or Garden",
+        "Central Heating",
+        "Cleaning Services"
+      ],
+      "amenities_l1": [
+        "\u0645\u0643\u0628\u0651 \u0646\u0641\u0627\u064a\u0627\u062a",
+        "\u0645\u0631\u0643\u0632 \u0644\u0644\u0625\u0633\u0639\u0627\u0641\u0627\u062a \u0627\u0644\u0623\u0648\u0644\u064a\u0629",
+        "\u0635\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u0646\u0627\u062f\u064a \u0635\u062d\u064a",
+        "\u0645\u0633\u0628\u062d",
+        "\u062e\u062f\u0645\u0627\u062a \u0635\u064a\u0627\u0646\u0629",
+        "\u0645\u0646\u0637\u0642\u0629 \u0644\u0639\u0628 \u0644\u0644\u0623\u0637\u0641\u0627\u0644",
+        "\u062d\u062f\u064a\u0642\u0629",
+        "\u062a\u062f\u0641\u0626\u0629 \u0645\u0631\u0643\u0632\u064a\u0629",
+        "\u062e\u062f\u0645\u0627\u062a \u062a\u0646\u0638\u064a\u0641"
+      ],
+      "amenities_l2": [
+        "\u5783\u573e\u5904\u7406",
+        "\u6025\u6551\u4e2d\u5fc3",
+        "\u5065\u8eab\u623f\u6216\u5065\u8eab\u4ff1\u4e50\u90e8",
+        "\u9644\u8fd1\u533b\u9662",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u513f\u7ae5\u5a31\u4e50\u533a",
+        "\u7eff\u5316",
+        "\u4e2d\u592e\u4f9b\u6696",
+        "\u6e05\u6d01\u670d\u52a1"
+      ],
+      "amenities_l3": [
+        "\u0423\u0442\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0442\u0445\u043e\u0434\u043e\u0432",
+        "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u0441\u043a\u043e\u0440\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438",
+        "\u0422\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u043d\u044b\u0439 \u0437\u0430\u043b \u0438\u043b\u0438 \u043e\u0437\u0434\u043e\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0443\u0431",
+        "\u0411\u0430\u0441\u0441\u0435\u0439\u043d",
+        "\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b",
+        "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u043e\u0432\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430",
+        "\u0413\u0430\u0437\u043e\u043d \u0438\u043b\u0438 \u0441\u0430\u0434",
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0442\u043e\u043f\u043b\u0435\u043d\u0438\u0435",
+        "\u0423\u0441\u043b\u0443\u0433\u0438 \u043f\u043e \u0443\u0431\u043e\u0440\u043a\u0435"
+      ],
+      "completionStatus": "completed",
+      "hasProject": false,
+      "agentAdStoriesCount": 0,
+      "hasUnitPlan": false,
+      "cityLevelScore": 1,
+      "indyScore": 840,
+      "indyScore_l1": 840,
+      "indyScore_l2": 840,
+      "indyScore_l3": 840,
+      "hasMatchingFloorPlans": true,
+      "photoIDs": [
+        793045933,
+        793045910,
+        793756521,
+        793045911,
+        793045929,
+        793045930,
+        793045931,
+        793045932,
+        793045934,
+        793045935,
+        793045936,
+        793045937,
+        793045938,
+        793045939,
+        793045940,
+        793045941,
+        793045942,
+        793045943,
+        793756522,
+        793756523,
+        793756524,
+        793756525,
+        793756526,
+        793756527,
+        793756528,
+        793756529,
+        793756530,
+        793756531,
+        793756532,
+        793756533,
+        793756534,
+        793756563,
+        793756564,
+        793756565,
+        793756566,
+        793756567,
+        793756568,
+        793756569,
+        793756570,
+        793756571,
+        793756572,
+        793756573,
+        793756574,
+        793756575,
+        793756576
+      ],
+      "hidePrice": false,
+      "locationPurposeTier": 3,
+      "plotArea": null,
+      "objectID": "9397996",
+      "_highlightResult": {
+        "referenceNumber": {
+          "value": "HH.THCREST.2050",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title": {
+          "value": "Fully Furnished | Prime Location | Negotiable",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l1": {
+          "value": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0631\u062c \u0630\u0627 \u0643\u0631\u064a\u0633\u062a B\u060c\u0630\u0627 \u0643\u0631\u064a\u0633\u062a\u060c\u0634\u0648\u0628\u0627 \u0647\u0627\u0631\u062a\u0644\u0627\u0646\u062f 2 \u063a\u0631\u0641 15999 \u062f\u0631\u0647\u0645 - 12708951",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l2": {
+          "value": "\u4f4d\u4e8e\u82cf\u5df4\u54c8\u7279\u5170\u793e\u533a\uff0c\u5dc5\u5cf0\u5927\u53a6\uff0c\u5dc5\u5cf0\u5927\u53a6B\u5ea7 2 \u5367\u5ba4\u7684\u516c\u5bd3 15999 AED - 12708951",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l3": {
+          "value": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0421\u043e\u0431\u0445\u0430 \u0425\u0430\u0440\u0442\u043b\u0430\u043d\u0434\uff0c\u041a\u0440\u0435\u0441\u0442\uff0c\u041a\u0440\u0435\u0441\u0442 \u0422\u0430\u0443\u044d\u0440 \u0411, 2 c\u043f\u0430\u043b\u044c\u043d\u0438, 15999 AED - 12708951",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "externalID": {
+          "value": "12708951",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "agency": {
+          "name": {
+            "value": "Rise And Chill Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l1": {
+            "value": "\u0631\u0627\u064a\u0632 \u0627\u0646\u062f \u062a\u0634\u064a\u0644 \u0644\u062a\u0627\u062c\u064a\u0631 \u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u0627\u062a",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l2": {
+            "value": "Rise And Chill Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l3": {
+            "value": "Rise And Chill Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "keywords": [
+          {
+            "value": "new",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "luxury",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "pool",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "modern",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "parking",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "wardrobe",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "maids",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "kitchen",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "family",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "private",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "spacious",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "community",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "garden",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "fitted",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "burj",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "burj khalifa",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "balcony",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "fully furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "ready",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "id": 5402535,
+      "ownerID": 2601180,
+      "userExternalID": "2601180",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+        "lat": 25.055031462737,
+        "lng": 55.211520240414
+      },
+      "geography": {
+        "lat": 25.055031462737,
+        "lng": 55.211520240414
+      },
+      "purpose": "for-rent",
+      "price": 9999.0,
+      "product": "superhot",
+      "productLabel": "default",
+      "productTruBrokerScore": 0,
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "NIC-1BHK-AP304-MAD496",
+      "projectNumber": null,
+      "permitNumber": null,
+      "title": "AMAZINGLY FURNISHED 1BHK+MAID ROOM || READY TO MOVE IN || SPACIOUS LAYOUT",
+      "title_l1": "\u0645\u0641\u0631\u0648\u0634\u0629 \u0628\u0634\u0643\u0644 \u0645\u0630\u0647\u0644 2BHK || \u062c\u0627\u0647\u0632 \u0644\u0644\u0627\u0646\u062a\u0642\u0627\u0644 \u0644\u0644\u0633\u0643\u0646 || \u062a\u0635\u0645\u064a\u0645 \u0648\u0627\u0633\u0639",
+      "title_l2": "\u4f4d\u4e8e\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)\uff0cJVC\u7b2c12\u533a\uff0c\u5c3c\u53e4\u62c9\u65af\u516c\u5bd3 1 \u5367\u5ba4\u7684\u516c\u5bd3 9999 AED - 8405283",
+      "title_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)\uff0cJVC \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 12\uff0c\u0420\u0435\u0437\u0438\u0434\u0435\u043d\u0446\u0438\u044f \u041d\u0438\u043a\u043e\u043b\u0430\u0441, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 9999 AED - 8405283",
+      "externalID": "8405283",
+      "slug": "amazingly-furnished-1bhk-maid-room-ready-to-move-in-spacious-layout-8405283",
+      "location": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "5001",
+          "name": "UAE",
+          "name_l1": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+          "name_l2": "\u963f\u8054\u914b",
+          "name_l3": "\u041e\u0410\u042d",
+          "slug": "/uae"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "5002",
+          "name": "Dubai",
+          "name_l1": "\u062f\u0628\u064a",
+          "name_l2": "\u8fea\u62dc",
+          "name_l3": "\u0414\u0443\u0431\u0430\u0439",
+          "slug": "/dubai"
+        },
+        {
+          "id": 59,
+          "level": 2,
+          "externalID": "5416",
+          "name": "Jumeirah Village Circle (JVC)",
+          "name_l1": "\u0642\u0631\u064a\u0629 \u062c\u0645\u064a\u0631\u0627 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u0629",
+          "name_l2": "\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)",
+          "name_l3": "\u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)",
+          "slug": "/dubai/jumeirah-village-circle-jvc",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 1881,
+          "level": 3,
+          "externalID": "9536",
+          "name": "JVC District 12",
+          "name_l1": "\u0627\u0644\u0636\u0627\u062d\u064a\u0629 12",
+          "name_l2": "JVC\u7b2c12\u533a",
+          "name_l3": "JVC \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 12",
+          "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-12",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 80858,
+          "level": 4,
+          "externalID": "16940",
+          "name": "Nicholas Residence",
+          "name_l1": "\u0646\u064a\u0643\u0648\u0644\u0627\u0633 \u0631\u064a\u0632\u064a\u062f\u0646\u0633",
+          "name_l2": "\u5c3c\u53e4\u62c9\u65af\u516c\u5bd3",
+          "name_l3": "\u0420\u0435\u0437\u0438\u0434\u0435\u043d\u0446\u0438\u044f \u041d\u0438\u043a\u043e\u043b\u0430\u0441",
+          "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-12/nicholas-residence",
+          "type": "condo-building"
+        }
+      ],
+      "category": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "1",
+          "name": "Residential",
+          "name_l1": "\u0633\u0643\u0646\u064a",
+          "name_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "name_l3": "\u0416\u0438\u043b\u044b\u0435",
+          "slug": "residential",
+          "slug_l1": "residential",
+          "slug_l2": "residential",
+          "slug_l3": "residential",
+          "nameSingular": "Residential",
+          "nameSingular_l1": "\u0633\u0643\u0646\u064a",
+          "nameSingular_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "nameSingular_l3": "\u0416\u0438\u043b\u044b\u0435"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "4",
+          "name": "Apartments",
+          "name_l1": "\u0634\u0642\u0642",
+          "name_l2": "\u516c\u5bd3",
+          "name_l3": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b",
+          "slug": "apartments",
+          "slug_l1": "apartments",
+          "slug_l2": "apartments",
+          "slug_l3": "apartments",
+          "nameSingular": "Apartment",
+          "nameSingular_l1": "\u0634\u0642\u0629",
+          "nameSingular_l2": "\u516c\u5bd3",
+          "nameSingular_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+      ],
+      "createdAt": 1704360005.0,
+      "updatedAt": 1762329909.0,
+      "reactivatedAt": 1751280876.209363,
+      "rooms": 1,
+      "baths": 2,
+      "area": 78.62012663040001,
+      "score": 75,
+      "score_l1": 75,
+      "score_l2": 75,
+      "score_l3": 75,
+      "boostedScore_l1": 499,
+      "boostedScore_l2": 413,
+      "boostedScore_l3": 499,
+      "deltaScore_l1": 620,
+      "deltaScore_l2": 620,
+      "deltaScore_l3": 620,
+      "coverPhoto": {
+        "id": 718755618,
+        "externalID": "163328866",
+        "title": "20240104_111159. jpg",
+        "orderIndex": 0,
+        "nimaScore": 9.517762517140909,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/718755618/7ebc5578aceb4f2f8c7aa262ad0d22fa",
+        "main": true,
+        "type": "listing"
+      },
+      "photoCount": 22,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+        "mobile": "+971521576522",
+        "phone": "+97145539027",
+        "whatsapp": "971545695868",
+        "proxyPhone": "+97145882478",
+        "phoneNumbers": [
+          "+97145539027"
+        ],
+        "mobileNumbers": [
+          "+971521576522"
+        ]
+      },
+      "contactMethodAvailability": {
+        "whatsapp": true,
+        "sms": true,
+        "email": true,
+        "call": true
+      },
+      "contactName": "Muhammad Muzzamil Aslam",
+      "agency": {
+        "id": 29583084,
+        "objectID": 29583084,
+        "name": "Luxe Signature Holiday Homes",
+        "name_l1": "\u0644\u0648\u0643\u0633 \u0633\u064a\u062c\u0646\u064a\u062a\u0634\u0631 \u0644\u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u062a",
+        "name_l2": "Luxe Signature Holiday Homes",
+        "name_l3": "Luxe Signature Holiday Homes",
+        "externalID": "9945",
+        "product": "premium",
+        "productScore": 2,
+        "location": "Dubai",
+        "location_l1": "\u062f\u0628\u064a",
+        "location_l2": "\u8fea\u62dc",
+        "location_l3": "\u0414\u0443\u0431\u0430\u0439",
+        "licenses": [],
+        "logo": {
+          "id": 95887451,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/95887451/dd511fdbc2e84cbe9963123840177a97"
+        },
+        "slug": "luxe-signature-holiday-homes-9945",
+        "slug_l1": "luxe-signature-holiday-homes-9945",
+        "slug_l2": "luxe-signature-holiday-homes-9945",
+        "slug_l3": "luxe-signature-holiday-homes-9945",
+        "tr": 3,
+        "tier": 3,
+        "roles": [
+          "bayut_exclusive",
+          "hide_agents_brn_number",
+          "hide_ads_permit_number"
+        ],
+        "active": true,
+        "createdAt": "2020-09-22T08:48:39+00:00",
+        "commercialNumber": null,
+        "shortNumber": null,
+        "type": "agency",
+        "performanceCohort": "overachieving"
+      },
+      "hash": "d42f0d8",
+      "keywords": [
+        "kitchen",
+        "pool",
+        "fitted",
+        "maid",
+        "parking",
+        "fully furnished",
+        "maids",
+        "furnished",
+        "luxury",
+        "bills",
+        "brand new",
+        "spacious",
+        "ready",
+        "new",
+        "elevator"
+      ],
+      "keywords_l1": [
+        "\u0648\u0627\u0633\u0639\u0629",
+        "\u0641\u0648\u0627\u062a\u064a\u0631",
+        "\u0645\u0637\u0628\u062e",
+        "\u0627\u0648\u0644 \u0633\u0627\u0643\u0646",
+        "\u0645\u0641\u0631\u0648\u0634 \u0628\u0627\u0644\u0643\u0627\u0645\u0644",
+        "\u062c\u0627\u0647\u0632\u0629",
+        "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0629",
+        "\u0645\u0641\u0631\u0648\u0634",
+        "\u062e\u0627\u062f\u0645\u0629",
+        "\u0645\u0624\u062b\u062b\u0629",
+        "\u0627\u064a\u062c\u0627\u0631 \u062c\u062f\u064a\u062f",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u0641\u0627\u062e\u0631\u0629",
+        "\u062c\u062f\u064a\u062f\u0629 \u0627\u0648\u0644 \u0633\u0627\u0643\u0646",
+        "\u0645\u0635\u0639\u062f",
+        "\u0643\u0628\u064a\u0631\u0629",
+        "\u062c\u0627\u0647\u0632",
+        "\u0633\u0627\u0643\u0646 \u0627\u0648\u0644",
+        "\u062c\u062f\u064a\u062f\u0629",
+        "\u0645\u0633\u0628\u062d",
+        "\u062e\u062f\u0645"
+      ],
+      "isVerified": true,
+      "verification": {
+        "updatedAt": 1762329914.780577,
+        "eligible": true,
+        "status": "verified",
+        "verifiedAt": 1762329908.0,
+        "trucheckedAt": 1762329908.0
+      },
+      "verifiedScore": 0,
+      "verifiedPopularScore": 0,
+      "trucheckedScore": 1762329908.0,
+      "trucheckedPopularScore": 1762329908.0,
+      "truBrokerScore": 1,
+      "occupancyStatus": "vacant",
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {
+        "dldBuildingNK": "tabu-349454436",
+        "hasSaleTransactions": true,
+        "dldPropertySK": "8405283"
+      },
+      "type": "property",
+      "ownerAgent": {
+        "externalID": "2601180",
+        "name": "Muhammad Muzzamil Aslam",
+        "name_l1": "Muhammad Muzzamil Aslam",
+        "name_l2": "Muhammad Muzzamil Aslam",
+        "name_l3": "Muhammad Muzzamil Aslam",
+        "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/796099657/f0bff7c7b5304ac29c5455f45b2e8cb5",
+        "user_image_id": 796099657,
+        "isTruBroker": false,
+        "slug": "muhammad-muzzamil-aslam-2601180",
+        "state": "active",
+        "isProfileCompleted": true,
+        "isComplete": true
+      },
+      "amenities": [
+        "Electricity Backup",
+        "Waste Disposal",
+        "Service Elevators",
+        "Gym or Health Club",
+        "Sauna",
+        "Swimming Pool",
+        "Maintenance Staff",
+        "Security Staff",
+        "CCTV Security",
+        "Cafeteria or Canteen",
+        "Freehold",
+        "Furnished",
+        "ATM Facility",
+        "Kids Play Area",
+        "Lawn or Garden",
+        "Reception/Waiting Room",
+        "Steam Room",
+        "Laundry Facility",
+        "Balcony or Terrace",
+        "Barbeque Area",
+        "Lobby in Building",
+        "Double Glazed Windows",
+        "Centrally Air-Conditioned",
+        "Day Care Center",
+        "24 Hours Concierge",
+        "Cleaning Services",
+        "Nearby Shopping Malls",
+        "Parking Spaces",
+        "Broadband Internet",
+        "Satellite/Cable TV",
+        "Jacuzzi"
+      ],
+      "amenities_l1": [
+        "\u0646\u0638\u0627\u0645 \u0643\u0647\u0631\u0628\u0627\u0621 \u0627\u062d\u062a\u064a\u0627\u0637\u064a \u0644\u0644\u0637\u0648\u0627\u0631\u0626",
+        "\u0645\u0643\u0628\u0651 \u0646\u0641\u0627\u064a\u0627\u062a",
+        "\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u0635\u0627\u0639\u062f",
+        "\u0635\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u0646\u0627\u062f\u064a \u0635\u062d\u064a",
+        "\u0633\u0627\u0648\u0646\u0627",
+        "\u0645\u0633\u0628\u062d",
+        "\u062e\u062f\u0645\u0627\u062a \u0635\u064a\u0627\u0646\u0629",
+        "\u0623\u0645\u0646 \u0648 \u062d\u0645\u0627\u064a\u0629",
+        "\u0646\u0638\u0627\u0645 \u0643\u0627\u0645\u064a\u0631\u0627\u062a \u0645\u0631\u0627\u0642\u0628\u0629",
+        "\u0643\u0627\u0641\u064a\u062a\u064a\u0631\u064a\u0627",
+        "\u0627\u0644\u062a\u0645\u0644\u0643 \u0627\u0644\u062d\u0631",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u062a\u0648\u0641\u0631 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0633\u062d\u0628 \u0627\u0644\u0622\u0644\u064a",
+        "\u0645\u0646\u0637\u0642\u0629 \u0644\u0639\u0628 \u0644\u0644\u0623\u0637\u0641\u0627\u0644",
+        "\u062d\u062f\u064a\u0642\u0629",
+        "\u063a\u0631\u0641\u0629 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 /\u0627\u0646\u062a\u0638\u0627\u0631",
+        "\u063a\u0631\u0641\u0629 \u0628\u062e\u0627\u0631",
+        "\u062e\u062f\u0645\u0629 \u063a\u0633\u064a\u0644 \u0645\u0644\u0627\u0628\u0633",
+        "\u0634\u0631\u0641\u0629 \u0623\u0648 \u062a\u0631\u0627\u0633",
+        "\u0645\u0643\u0627\u0646 \u0645\u062e\u0635\u0635 \u0644\u0644\u0634\u0648\u0627\u0621",
+        "\u0631\u062f\u0647\u0629 \u0625\u0633\u062a\u0642\u0628\u0627\u0644",
+        "\u0646\u0648\u0627\u0641\u0630 \u0632\u062c\u0627\u062c\u064a\u0629 \u0645\u0632\u062f\u0648\u062c\u0629",
+        "\u0646\u0638\u0627\u0645 \u062a\u0628\u0631\u064a\u062f \u0645\u0631\u0643\u0632\u064a",
+        "\u0645\u0631\u0643\u0632 \u0631\u0639\u0627\u064a\u0629 \u0623\u0637\u0641\u0627\u0644",
+        "\u062d\u0631\u0627\u0633\u0629 24 \u0633\u0627\u0639\u0629",
+        "\u062e\u062f\u0645\u0627\u062a \u062a\u0646\u0638\u064a\u0641",
+        "\u0645\u0631\u0627\u0643\u0632 \u062a\u0633\u0648\u0642 \u0642\u0631\u064a\u0628\u0629",
+        "\u0645\u0648\u0627\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+        "\u0627\u0646\u062a\u0631\u0646\u062a \u0648\u0627\u0633\u0639 \u0627\u0644\u0646\u0637\u0627\u0642",
+        "\u0643\u0627\u0628\u0644 \u0642\u0646\u0648\u0627\u062a \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629",
+        "\u062c\u0627\u0643\u0648\u0632\u064a"
+      ],
+      "amenities_l2": [
+        "\u5907\u7528\u7535\u529b",
+        "\u5783\u573e\u5904\u7406",
+        "\u670d\u52a1\u7535\u68af",
+        "\u5065\u8eab\u623f\u6216\u5065\u8eab\u4ff1\u4e50\u90e8",
+        "\u6c57\u84b8\u623f",
+        "\u9644\u8fd1\u533b\u9662",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u5168\u90e8\u697c\u5c42",
+        "\u95ed\u8def\u7535\u89c6\u5b89\u5168",
+        "\u81ea\u52a9\u9910\u5385\u6216\u98df\u5802",
+        "\u6c38\u4e45\u4ea7\u6743",
+        "\u914d\u5907\u5bb6\u5177",
+        "\u81ea\u52a8\u53d6\u6b3e\u673a",
+        "\u513f\u7ae5\u5a31\u4e50\u533a",
+        "\u7eff\u5316",
+        "\u6851\u62ff",
+        "\u6e38\u6cf3\u6c60",
+        "\u6d17\u8863\u8bbe\u65bd",
+        "\u9633\u53f0",
+        "\u70e7\u70e4\u533a",
+        "\u5165\u6237\u5927\u5802",
+        "\u53cc\u5c42\u73bb\u7483\u7a97",
+        "\u4e2d\u592e\u7a7a\u8c03",
+        "\u65e5\u6258\u4e2d\u5fc3",
+        "24\u5c0f\u65f6\u793c\u5bbe\u670d\u52a1",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u6cca\u8f66\u4f4d",
+        "\u6cca\u8f66\u4f4d",
+        "\u5bbd\u5e26\u7f51\u7edc",
+        "\u536b\u661f\u7535\u89c6/\u6709\u7ebf\u7535\u89c6",
+        "\u6309\u6469\u6d74\u7f38"
+      ],
+      "amenities_l3": [
+        "\u0420\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043e",
+        "\u0423\u0442\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0442\u0445\u043e\u0434\u043e\u0432",
+        "\u0421\u043b\u0443\u0436\u0435\u0431\u043d\u044b\u0435 \u043b\u0438\u0444\u0442\u044b",
+        "\u0422\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u043d\u044b\u0439 \u0437\u0430\u043b \u0438\u043b\u0438 \u043e\u0437\u0434\u043e\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0443\u0431",
+        "\u0421\u0430\u0443\u043d\u0430",
+        "\u0411\u0430\u0441\u0441\u0435\u0439\u043d",
+        "\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b",
+        "\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0438\u0434\u0435\u043e\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f",
+        "\u041a\u0430\u0444\u0435\u0442\u0435\u0440\u0438\u0439 \u0438\u043b\u0438 \u0441\u0442\u043e\u043b\u043e\u0432\u0430\u044f",
+        "\u041f\u0440\u0430\u0432\u043e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+        "\u041c\u0435\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439",
+        "\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442",
+        "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u043e\u0432\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430",
+        "\u0413\u0430\u0437\u043e\u043d \u0438\u043b\u0438 \u0441\u0430\u0434",
+        "\u041f\u0440\u0438\u0435\u043c/\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f",
+        "\u041f\u0430\u0440\u043e\u0432\u0430\u044f \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
+        "\u043f\u0440\u0430\u0447\u0435\u0447\u043d\u0430\u044f",
+        "\u0411\u0430\u043b\u043a\u043e\u043d \u0438\u043b\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430",
+        "\u0417\u043e\u043d\u0430 \u0431\u0430\u0440\u0431\u0435\u043a\u044e",
+        "\u041b\u043e\u0431\u0431\u0438 \u0432 \u0437\u0434\u0430\u043d\u0438\u0438",
+        "\u041e\u043a\u043d\u0430 \u0441 \u0434\u0432\u043e\u0439\u043d\u044b\u043c \u043e\u0441\u0442\u0435\u043a\u043b\u0435\u043d\u0438\u0435\u043c",
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "\u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u0441\u0430\u0434",
+        "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0441\u044c\u0435\u0440\u0436",
+        "\u0423\u0441\u043b\u0443\u0433\u0438 \u043f\u043e \u0443\u0431\u043e\u0440\u043a\u0435",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0435 \u0446\u0435\u043d\u0442\u0440\u044b",
+        "\u041f\u0430\u0440\u043a\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430",
+        "\u0428\u0438\u0440\u043e\u043a\u043e\u043f\u043e\u043b\u043e\u0441\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+        "\u0421\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0435/\u043a\u0430\u0431\u0435\u043b\u044c\u043d\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+        "\u0414\u0436\u0430\u043a\u0443\u0437\u0438"
+      ],
+      "completionStatus": "completed",
+      "hasProject": false,
+      "agentAdStoriesCount": 0,
+      "hasUnitPlan": false,
+      "cityLevelScore": 1,
+      "indyScore": 499,
+      "indyScore_l1": 499,
+      "indyScore_l2": 413,
+      "indyScore_l3": 499,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+        718755618,
+        718755626,
+        718755632,
+        718755636,
+        718755642,
+        718755645,
+        718755651,
+        718755659,
+        718755668,
+        718755673,
+        718755677,
+        718755681,
+        718755691,
+        718755701,
+        718755712,
+        718755716,
+        718755720,
+        718755728,
+        718755732,
+        718755734,
+        718755737,
+        718755741
+      ],
+      "hidePrice": false,
+      "locationPurposeTier": 1,
+      "plotArea": null,
+      "objectID": "5402535",
+      "_highlightResult": {
+        "referenceNumber": {
+          "value": "NIC-1BHK-AP304-MAD496",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title": {
+          "value": "AMAZINGLY FURNISHED 1BHK+MAID ROOM || READY TO MOVE IN || SPACIOUS LAYOUT",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l1": {
+          "value": "\u0645\u0641\u0631\u0648\u0634\u0629 \u0628\u0634\u0643\u0644 \u0645\u0630\u0647\u0644 2BHK || \u062c\u0627\u0647\u0632 \u0644\u0644\u0627\u0646\u062a\u0642\u0627\u0644 \u0644\u0644\u0633\u0643\u0646 || \u062a\u0635\u0645\u064a\u0645 \u0648\u0627\u0633\u0639",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l2": {
+          "value": "\u4f4d\u4e8e\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)\uff0cJVC\u7b2c12\u533a\uff0c\u5c3c\u53e4\u62c9\u65af\u516c\u5bd3 1 \u5367\u5ba4\u7684\u516c\u5bd3 9999 AED - 8405283",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l3": {
+          "value": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)\uff0cJVC \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 12\uff0c\u0420\u0435\u0437\u0438\u0434\u0435\u043d\u0446\u0438\u044f \u041d\u0438\u043a\u043e\u043b\u0430\u0441, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 9999 AED - 8405283",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "externalID": {
+          "value": "8405283",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "agency": {
+          "name": {
+            "value": "Luxe Signature Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l1": {
+            "value": "\u0644\u0648\u0643\u0633 \u0633\u064a\u062c\u0646\u064a\u062a\u0634\u0631 \u0644\u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u062a",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l2": {
+            "value": "Luxe Signature Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l3": {
+            "value": "Luxe Signature Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "keywords": [
+          {
+            "value": "kitchen",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "pool",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "fitted",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "maid",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "parking",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "fully furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "maids",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "luxury",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "bills",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "brand new",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "spacious",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "ready",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "new",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "elevator",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "id": 4592075,
+      "ownerID": 706060,
+      "userExternalID": "706060",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+        "lat": 25.050708,
+        "lng": 55.213872
+      },
+      "geography": {
+        "lat": 25.050708,
+        "lng": 55.213872
+      },
+      "purpose": "for-rent",
+      "price": 9900.0,
+      "product": "superhot",
+      "productLabel": "default",
+      "productTruBrokerScore": 0,
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "NEG-128",
+      "projectNumber": null,
+      "permitNumber": null,
+      "title": "Smart Lock|Contemporary Charm | Vibrant Locale | Spacious & Bright",
+      "title_l1": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0627\u0646\u062b\u064a\u0648\u0646 \u0628\u0648\u0644\u064a\u0641\u0627\u0631\u062f\u060c\u0627\u0644\u0636\u0627\u062d\u064a\u0629 13\u060c\u0642\u0631\u064a\u0629 \u062c\u0645\u064a\u0631\u0627 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u0629 1 \u063a\u0631\u0641\u0629 9900 \u062f\u0631\u0647\u0645 - 7590793",
+      "title_l2": "\u4f4d\u4e8e\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)\uff0cJVC\u7b2c13\u533a\uff0c\u4e07\u795e\u6bbf\u5927\u9053\u4f4f\u5b85\u697c 1 \u5367\u5ba4\u7684\u516c\u5bd3 9900 AED - 7590793",
+      "title_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)\uff0cJVC \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 13\uff0c\u041f\u0430\u043d\u0442\u0435\u043e\u043d \u0411\u0443\u043b\u044c\u0432\u0430\u0440, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 9900 AED - 7590793",
+      "externalID": "7590793",
+      "slug": "smart-lock-contemporary-charm-vibrant-locale-spacious-bright-7590793",
+      "location": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "5001",
+          "name": "UAE",
+          "name_l1": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+          "name_l2": "\u963f\u8054\u914b",
+          "name_l3": "\u041e\u0410\u042d",
+          "slug": "/uae"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "5002",
+          "name": "Dubai",
+          "name_l1": "\u062f\u0628\u064a",
+          "name_l2": "\u8fea\u62dc",
+          "name_l3": "\u0414\u0443\u0431\u0430\u0439",
+          "slug": "/dubai"
+        },
+        {
+          "id": 59,
+          "level": 2,
+          "externalID": "5416",
+          "name": "Jumeirah Village Circle (JVC)",
+          "name_l1": "\u0642\u0631\u064a\u0629 \u062c\u0645\u064a\u0631\u0627 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u0629",
+          "name_l2": "\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)",
+          "name_l3": "\u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)",
+          "slug": "/dubai/jumeirah-village-circle-jvc",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 1935,
+          "level": 3,
+          "externalID": "11385",
+          "name": "JVC District 13",
+          "name_l1": "\u0627\u0644\u0636\u0627\u062d\u064a\u0629 13",
+          "name_l2": "JVC\u7b2c13\u533a",
+          "name_l3": "JVC \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 13",
+          "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-13",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 1967,
+          "level": 4,
+          "externalID": "11298",
+          "name": "Pantheon Boulevard",
+          "name_l1": "\u0628\u0627\u0646\u062b\u064a\u0648\u0646 \u0628\u0648\u0644\u064a\u0641\u0627\u0631\u062f",
+          "name_l2": "\u4e07\u795e\u6bbf\u5927\u9053\u4f4f\u5b85\u697c",
+          "name_l3": "\u041f\u0430\u043d\u0442\u0435\u043e\u043d \u0411\u0443\u043b\u044c\u0432\u0430\u0440",
+          "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-13/pantheon-boulevard",
+          "type": "condo-building"
+        }
+      ],
+      "category": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "1",
+          "name": "Residential",
+          "name_l1": "\u0633\u0643\u0646\u064a",
+          "name_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "name_l3": "\u0416\u0438\u043b\u044b\u0435",
+          "slug": "residential",
+          "slug_l1": "residential",
+          "slug_l2": "residential",
+          "slug_l3": "residential",
+          "nameSingular": "Residential",
+          "nameSingular_l1": "\u0633\u0643\u0646\u064a",
+          "nameSingular_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "nameSingular_l3": "\u0416\u0438\u043b\u044b\u0435"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "4",
+          "name": "Apartments",
+          "name_l1": "\u0634\u0642\u0642",
+          "name_l2": "\u516c\u5bd3",
+          "name_l3": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b",
+          "slug": "apartments",
+          "slug_l1": "apartments",
+          "slug_l2": "apartments",
+          "slug_l3": "apartments",
+          "nameSingular": "Apartment",
+          "nameSingular_l1": "\u0634\u0642\u0629",
+          "nameSingular_l2": "\u516c\u5bd3",
+          "nameSingular_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+      ],
+      "createdAt": 1686823873.0,
+      "updatedAt": 1762310191.0,
+      "reactivatedAt": 1752330275.036002,
+      "rooms": 1,
+      "baths": 2,
+      "area": 92.81013696000001,
+      "score": 75,
+      "score_l1": 75,
+      "score_l2": 75,
+      "score_l3": 75,
+      "boostedScore_l1": 829,
+      "boostedScore_l2": 686,
+      "boostedScore_l3": 829,
+      "deltaScore_l1": 560,
+      "deltaScore_l2": 560,
+      "deltaScore_l3": 560,
+      "coverPhoto": {
+        "id": 391547827,
+        "externalID": "150369436",
+        "title": null,
+        "orderIndex": 0,
+        "nimaScore": 9.790500921577689,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/391547827/363c9c2fdecc4ba4b7d9bab871ab3f87",
+        "main": true,
+        "type": "listing"
+      },
+      "coverVideo": {
+        "externalID": 499677,
+        "title": null,
+        "host": "youtube",
+        "url": "https://www.youtube.com/watch?v=sV_XdZl4ouA",
+        "orderIndex": 0
+      },
+      "photoCount": 23,
+      "videoCount": 1,
+      "panoramaCount": 1,
+      "clips": [
+        {
+          "externalID": "9RfZyYz4dE",
+          "variants": [
+            {
+              "key": "original",
+              "mimeType": "video/mp2t; codec=\"h264\""
+            },
+            {
+              "key": "short_v1_480p.webm",
+              "mimeType": "video/webm; codec=\"vp9\""
+            }
+          ],
+          "orderIndex": 0
+        }
+      ],
+      "phoneNumber": {
+        "mobile": "+971505065919",
+        "phone": "+97145802357",
+        "whatsapp": "971545695868",
+        "proxyPhone": "+97143626404",
+        "phoneNumbers": [
+          "+97145802357"
+        ],
+        "mobileNumbers": [
+          "+971505065919"
+        ]
+      },
+      "contactMethodAvailability": {
+        "whatsapp": true,
+        "sms": true,
+        "email": true,
+        "call": true
+      },
+      "contactName": "Negar Mohammadmahdi Eftekhari",
+      "agency": {
+        "id": 29589916,
+        "objectID": 29589916,
+        "name": "B L V D Holiday Homes",
+        "name_l1": "\u0628 \u0627\u0644 \u0641 \u062f\u064a \u0644\u062a\u0623\u062c\u064a\u0631 \u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u062a",
+        "name_l2": "B L V D Holiday Homes",
+        "name_l3": "B L V D Holiday Homes",
+        "externalID": "10204",
+        "product": "premium",
+        "productScore": 2,
+        "location": "Dubai",
+        "location_l1": "\u062f\u0628\u064a",
+        "location_l2": "\u8fea\u62dc",
+        "location_l3": "\u0414\u0443\u0431\u0430\u0439",
+        "licenses": [],
+        "logo": {
+          "id": 99895298,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/99895298/9fc421847605425f9f3227a49d9db7f9"
+        },
+        "slug": "b-l-v-d-holiday-homes-10204",
+        "slug_l1": "b-l-v-d-holiday-homes-10204",
+        "slug_l2": "b-l-v-d-holiday-homes-10204",
+        "slug_l3": "b-l-v-d-holiday-homes-10204",
+        "tr": 4,
+        "tier": 4,
+        "roles": [
+          "hide_agents_brn_number",
+          "hide_ads_permit_number"
+        ],
+        "active": true,
+        "createdAt": "2021-01-03T01:52:43+00:00",
+        "commercialNumber": null,
+        "shortNumber": null,
+        "type": "agency",
+        "performanceCohort": "overachieving"
+      },
+      "hash": "1fc8141",
+      "keywords": [
+        "serviced",
+        "mosque",
+        "spacious",
+        "community",
+        "luxury",
+        "new",
+        "pool",
+        "elevator",
+        "fully furnished",
+        "kitchen",
+        "maids",
+        "monthly",
+        "modern",
+        "wardrobe",
+        "private",
+        "furnished",
+        "gym"
+      ],
+      "keywords_l1": [
+        "\u0645\u0641\u0631\u0648\u0634",
+        "\u0645\u0635\u0639\u062f",
+        "\u0645\u0633\u0628\u062d",
+        "\u0646\u0627\u062f\u064a \u0631\u064a\u0627\u0636\u064a",
+        "\u0645\u062e\u062f\u0648\u0645",
+        "\u0641\u0627\u062e\u0631\u0629",
+        "\u062e\u062f\u0645",
+        "\u0643\u0628\u064a\u0631\u0629",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u0648\u0627\u0633\u0639\u0629",
+        "\u062e\u0632\u0627\u0646\u0629 \u0645\u0644\u0627\u0628\u0633",
+        "\u0645\u0641\u0631\u0648\u0634 \u0628\u0627\u0644\u0643\u0627\u0645\u0644",
+        "\u062e\u0627\u0635",
+        "\u0645\u0624\u062b\u062b\u0629",
+        "\u0645\u0633\u062c\u062f",
+        "\u062d\u062f\u064a\u062b\u0629",
+        "\u062c\u062f\u064a\u062f\u0629",
+        "\u0645\u0637\u0628\u062e",
+        "\u0645\u062c\u0645\u0651\u0639 \u0633\u0643\u0646\u064a",
+        "\u0634\u0647\u0631\u064a"
+      ],
+      "isVerified": true,
+      "verification": {
+        "updatedAt": 1762267921.483607,
+        "eligible": true,
+        "status": "verified",
+        "verifiedAt": 1762267913.0,
+        "trucheckedAt": 1762267913.0
+      },
+      "verifiedScore": 0,
+      "verifiedPopularScore": 0,
+      "trucheckedScore": 1762267913.0,
+      "trucheckedPopularScore": 1762267913.0,
+      "truBrokerScore": 0,
+      "occupancyStatus": "vacant",
+      "floorPlanID": 11793,
+      "furnishingStatus": "furnished",
+      "extraFields": {
+        "dldBuildingNK": "tabu-104544945",
+        "hasSaleTransactions": true,
+        "dldPropertySK": "7590793"
+      },
+      "type": "property",
+      "ownerAgent": {
+        "externalID": "706060",
+        "name": "Negar Mohammadmahdi Eftekhari",
+        "name_l1": "Negar Mohammadmahdi Eftekhari",
+        "name_l2": "Negar Mohammadmahdi Eftekhari",
+        "name_l3": "Negar Mohammadmahdi Eftekhari",
+        "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/517488581/d3f1d2623b1143e599ad44e8710cad8f",
+        "user_image_id": 517488581,
+        "isTruBroker": true,
+        "slug": "negar-mohammadmahdi-eftekhari-706060",
+        "state": "active",
+        "isProfileCompleted": true,
+        "isComplete": true
+      },
+      "amenities": [
+        "Electricity Backup",
+        "Waste Disposal",
+        "Service Elevators",
+        "Gym or Health Club",
+        "Swimming Pool",
+        "Maintenance Staff",
+        "Security Staff",
+        "CCTV Security",
+        "Freehold",
+        "Furnished",
+        "Intercom",
+        "Kids Play Area",
+        "Lawn or Garden",
+        "Maids Room",
+        "Reception/Waiting Room",
+        "Laundry Facility",
+        "Facilities for Disabled",
+        "Storage Areas",
+        "Study Room",
+        "Balcony or Terrace",
+        "Lobby in Building",
+        "Double Glazed Windows",
+        "Centrally Air-Conditioned",
+        "Central Heating",
+        "24 Hours Concierge",
+        "Cleaning Services",
+        "Completion Year",
+        "View",
+        "Floor",
+        "Elevators in Building",
+        "Nearby Schools",
+        "Nearby Hospitals",
+        "Nearby Shopping Malls",
+        "Distance From Airport (kms)",
+        "Nearby Public Transport",
+        "Other Nearby Places",
+        "Number of Bathrooms",
+        "Number of Bedrooms",
+        "Parking Spaces",
+        "Total Floors",
+        "Broadband Internet",
+        "Satellite/Cable TV"
+      ],
+      "amenities_l1": [
+        "\u0646\u0638\u0627\u0645 \u0643\u0647\u0631\u0628\u0627\u0621 \u0627\u062d\u062a\u064a\u0627\u0637\u064a \u0644\u0644\u0637\u0648\u0627\u0631\u0626",
+        "\u0645\u0643\u0628\u0651 \u0646\u0641\u0627\u064a\u0627\u062a",
+        "\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u0635\u0627\u0639\u062f",
+        "\u0635\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u0646\u0627\u062f\u064a \u0635\u062d\u064a",
+        "\u0645\u0633\u0628\u062d",
+        "\u062e\u062f\u0645\u0627\u062a \u0635\u064a\u0627\u0646\u0629",
+        "\u0623\u0645\u0646 \u0648 \u062d\u0645\u0627\u064a\u0629",
+        "\u0646\u0638\u0627\u0645 \u0643\u0627\u0645\u064a\u0631\u0627\u062a \u0645\u0631\u0627\u0642\u0628\u0629",
+        "\u0627\u0644\u062a\u0645\u0644\u0643 \u0627\u0644\u062d\u0631",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u0627\u062a\u0635\u0627\u0644 \u062f\u0627\u062e\u0644\u064a",
+        "\u0645\u0646\u0637\u0642\u0629 \u0644\u0639\u0628 \u0644\u0644\u0623\u0637\u0641\u0627\u0644",
+        "\u062d\u062f\u064a\u0642\u0629",
+        "\u063a\u0631\u0641\u0629 \u062e\u062f\u0645",
+        "\u063a\u0631\u0641\u0629 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 /\u0627\u0646\u062a\u0638\u0627\u0631",
+        "\u062e\u062f\u0645\u0629 \u063a\u0633\u064a\u0644 \u0645\u0644\u0627\u0628\u0633",
+        "\u062a\u0633\u0647\u064a\u0644\u0627\u062a \u0644\u0623\u0635\u062d\u0627\u0628 \u0627\u0644\u0647\u0645\u0645",
+        "\u0645\u0646\u0627\u0637\u0642 \u062a\u062e\u0632\u064a\u0646",
+        "\u063a\u0631\u0641\u0629 \u062f\u0631\u0627\u0633\u0629",
+        "\u0634\u0631\u0641\u0629 \u0623\u0648 \u062a\u0631\u0627\u0633",
+        "\u0631\u062f\u0647\u0629 \u0625\u0633\u062a\u0642\u0628\u0627\u0644",
+        "\u0646\u0648\u0627\u0641\u0630 \u0632\u062c\u0627\u062c\u064a\u0629 \u0645\u0632\u062f\u0648\u062c\u0629",
+        "\u0646\u0638\u0627\u0645 \u062a\u0628\u0631\u064a\u062f \u0645\u0631\u0643\u0632\u064a",
+        "\u062a\u062f\u0641\u0626\u0629 \u0645\u0631\u0643\u0632\u064a\u0629",
+        "\u062d\u0631\u0627\u0633\u0629 24 \u0633\u0627\u0639\u0629",
+        "\u062e\u062f\u0645\u0627\u062a \u062a\u0646\u0638\u064a\u0641",
+        "\u0633\u0646\u0629 \u0625\u062a\u0645\u0627\u0645 \u0645\u0634\u0631\u0648\u0639",
+        "\u0645\u0637\u0644",
+        "\u0637\u0627\u0628\u0642",
+        "\u0645\u0635\u0627\u0639\u062f",
+        "\u0645\u062f\u0627\u0631\u0633 \u0642\u0631\u064a\u0628\u0629",
+        "\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a \u0642\u0631\u064a\u0628\u0629",
+        "\u0645\u0631\u0627\u0643\u0632 \u062a\u0633\u0648\u0642 \u0642\u0631\u064a\u0628\u0629",
+        "\u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0645\u0646 \u0627\u0644\u0645\u0637\u0627\u0631 (\u0643\u0645)",
+        "\u0645\u0648\u0627\u0635\u0644\u0627\u062a \u0646\u0642\u0644 \u0639\u0627\u0645\u0629 \u0642\u0631\u064a\u0628\u0629",
+        "\u0623\u0645\u0627\u0643\u0646 \u0642\u0631\u064a\u0628\u0629 \u0623\u062e\u0631\u0649",
+        "\u0639\u062f\u062f \u062f\u0648\u0631\u0627\u062a \u0627\u0644\u0645\u064a\u0627\u0647",
+        "\u0639\u062f\u062f \u0627\u0644\u063a\u0631\u0641",
+        "\u0645\u0648\u0627\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+        "\u0639\u062f\u062f \u0627\u0644\u0637\u0648\u0627\u0628\u0642",
+        "\u0627\u0646\u062a\u0631\u0646\u062a \u0648\u0627\u0633\u0639 \u0627\u0644\u0646\u0637\u0627\u0642",
+        "\u0643\u0627\u0628\u0644 \u0642\u0646\u0648\u0627\u062a \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629"
+      ],
+      "amenities_l2": [
+        "\u5907\u7528\u7535\u529b",
+        "\u5783\u573e\u5904\u7406",
+        "\u670d\u52a1\u7535\u68af",
+        "\u5065\u8eab\u623f\u6216\u5065\u8eab\u4ff1\u4e50\u90e8",
+        "\u9644\u8fd1\u533b\u9662",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u5168\u90e8\u697c\u5c42",
+        "\u95ed\u8def\u7535\u89c6\u5b89\u5168",
+        "\u6c38\u4e45\u4ea7\u6743",
+        "\u914d\u5907\u5bb6\u5177",
+        "\u5bf9\u8bb2\u7535\u8bdd",
+        "\u513f\u7ae5\u5a31\u4e50\u533a",
+        "\u7eff\u5316",
+        "\u4fdd\u59c6\u623f",
+        "\u6851\u62ff",
+        "\u6d17\u8863\u8bbe\u65bd",
+        "\u6b8b\u969c\u4eba\u58eb\u8bbe\u65bd",
+        "\u50a8\u7269\u533a",
+        "\u4e66\u623f",
+        "\u9633\u53f0",
+        "\u5165\u6237\u5927\u5802",
+        "\u53cc\u5c42\u73bb\u7483\u7a97",
+        "\u4e2d\u592e\u7a7a\u8c03",
+        "\u4e2d\u592e\u4f9b\u6696",
+        "24\u5c0f\u65f6\u793c\u5bbe\u670d\u52a1",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u5efa\u6210\u5e74\u4efd",
+        "\u666f\u89c2",
+        "\u697c\u5c42",
+        "\u7535\u68af",
+        "\u516c\u5171\u53a8\u623f",
+        "\u6b8b\u969c\u4eba\u58eb\u8bbe\u65bd",
+        "\u6cca\u8f66\u4f4d",
+        "\u50a8\u7269\u533a",
+        "\u4e66\u623f",
+        "24\u5c0f\u65f6\u793c\u5bbe\u670d\u52a1",
+        "\u536b\u6d74\u6570",
+        "\u5367\u5ba4\u6570",
+        "\u6cca\u8f66\u4f4d",
+        "\u5168\u90e8\u697c\u5c42",
+        "\u5bbd\u5e26\u7f51\u7edc",
+        "\u536b\u661f\u7535\u89c6/\u6709\u7ebf\u7535\u89c6"
+      ],
+      "amenities_l3": [
+        "\u0420\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043e",
+        "\u0423\u0442\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0442\u0445\u043e\u0434\u043e\u0432",
+        "\u0421\u043b\u0443\u0436\u0435\u0431\u043d\u044b\u0435 \u043b\u0438\u0444\u0442\u044b",
+        "\u0422\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u043d\u044b\u0439 \u0437\u0430\u043b \u0438\u043b\u0438 \u043e\u0437\u0434\u043e\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0443\u0431",
+        "\u0411\u0430\u0441\u0441\u0435\u0439\u043d",
+        "\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b",
+        "\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0438\u0434\u0435\u043e\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f",
+        "\u041f\u0440\u0430\u0432\u043e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+        "\u041c\u0435\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439",
+        "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044f\u044f \u0441\u0432\u044f\u0437\u044c",
+        "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u043e\u0432\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430",
+        "\u0413\u0430\u0437\u043e\u043d \u0438\u043b\u0438 \u0441\u0430\u0434",
+        "\u041a\u043e\u043c\u043d\u0430\u0442\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0441\u043b\u0443\u0433\u0438",
+        "\u041f\u0440\u0438\u0435\u043c/\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f",
+        "\u043f\u0440\u0430\u0447\u0435\u0447\u043d\u0430\u044f",
+        "\u0423\u0441\u043b\u0443\u0433\u0438 \u0434\u043b\u044f \u0438\u043d\u0432\u0430\u043b\u0438\u0434\u043e\u0432",
+        "\u0421\u043a\u043b\u0430\u0434\u0441\u043a\u0438\u0435 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u044f",
+        "\u041a\u0430\u0431\u0438\u043d\u0435\u0442",
+        "\u0411\u0430\u043b\u043a\u043e\u043d \u0438\u043b\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430",
+        "\u041b\u043e\u0431\u0431\u0438 \u0432 \u0437\u0434\u0430\u043d\u0438\u0438",
+        "\u041e\u043a\u043d\u0430 \u0441 \u0434\u0432\u043e\u0439\u043d\u044b\u043c \u043e\u0441\u0442\u0435\u043a\u043b\u0435\u043d\u0438\u0435\u043c",
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0442\u043e\u043f\u043b\u0435\u043d\u0438\u0435",
+        "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0441\u044c\u0435\u0440\u0436",
+        "\u0423\u0441\u043b\u0443\u0433\u0438 \u043f\u043e \u0443\u0431\u043e\u0440\u043a\u0435",
+        "\u0413\u043e\u0434 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0438\u044f",
+        "\u0412\u0438\u0434",
+        "\u041f\u043e\u043b",
+        "\u041b\u0438\u0444\u0442\u044b \u0432 \u0437\u0434\u0430\u043d\u0438\u0438",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0448\u043a\u043e\u043b\u044b",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u044b",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0435 \u0446\u0435\u043d\u0442\u0440\u044b",
+        "\u0420\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043e\u0442 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430 (\u043a\u043c)",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0439 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442",
+        "\u0414\u0440\u0443\u0433\u0438\u0435 \u0431\u043b\u0438\u0437\u043b\u0435\u0436\u0430\u0449\u0438\u0435 \u043c\u0435\u0441\u0442\u0430",
+        "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0430\u043d\u043d\u044b\u0445 \u043a\u043e\u043c\u043d\u0430\u0442",
+        "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441\u043f\u0430\u043b\u0435\u043d",
+        "\u041f\u0430\u0440\u043a\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430",
+        "\u0412\u0441\u0435\u0433\u043e \u044d\u0442\u0430\u0436\u0435\u0439",
+        "\u0428\u0438\u0440\u043e\u043a\u043e\u043f\u043e\u043b\u043e\u0441\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+        "\u0421\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0435/\u043a\u0430\u0431\u0435\u043b\u044c\u043d\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435"
+      ],
+      "completionStatus": "completed",
+      "hasProject": false,
+      "agentAdStoriesCount": 0,
+      "hasUnitPlan": false,
+      "cityLevelScore": 1,
+      "indyScore": 829,
+      "indyScore_l1": 829,
+      "indyScore_l2": 686,
+      "indyScore_l3": 829,
+      "hasMatchingFloorPlans": true,
+      "photoIDs": [
+        391547827,
+        391547826,
+        795172131,
+        795172132,
+        391547828,
+        391547825,
+        391547824,
+        391547821,
+        391553713,
+        391547822,
+        391547820,
+        391553716,
+        795172133,
+        795172134,
+        795172135,
+        391556065,
+        795172136,
+        795172137,
+        795172138,
+        795172139,
+        795172140,
+        795172141,
+        795172142
+      ],
+      "hidePrice": false,
+      "locationPurposeTier": 1,
+      "plotArea": null,
+      "objectID": "4592075",
+      "_highlightResult": {
+        "referenceNumber": {
+          "value": "NEG-128",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title": {
+          "value": "Smart Lock|Contemporary Charm | Vibrant Locale | Spacious & Bright",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l1": {
+          "value": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0627\u0646\u062b\u064a\u0648\u0646 \u0628\u0648\u0644\u064a\u0641\u0627\u0631\u062f\u060c\u0627\u0644\u0636\u0627\u062d\u064a\u0629 13\u060c\u0642\u0631\u064a\u0629 \u062c\u0645\u064a\u0631\u0627 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u0629 1 \u063a\u0631\u0641\u0629 9900 \u062f\u0631\u0647\u0645 - 7590793",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l2": {
+          "value": "\u4f4d\u4e8e\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)\uff0cJVC\u7b2c13\u533a\uff0c\u4e07\u795e\u6bbf\u5927\u9053\u4f4f\u5b85\u697c 1 \u5367\u5ba4\u7684\u516c\u5bd3 9900 AED - 7590793",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l3": {
+          "value": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)\uff0cJVC \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 13\uff0c\u041f\u0430\u043d\u0442\u0435\u043e\u043d \u0411\u0443\u043b\u044c\u0432\u0430\u0440, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 9900 AED - 7590793",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "externalID": {
+          "value": "7590793",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "agency": {
+          "name": {
+            "value": "B L V D Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l1": {
+            "value": "\u0628 \u0627\u0644 \u0641 \u062f\u064a \u0644\u062a\u0623\u062c\u064a\u0631 \u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u062a",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l2": {
+            "value": "B L V D Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l3": {
+            "value": "B L V D Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "keywords": [
+          {
+            "value": "serviced",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "mosque",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "spacious",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "community",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "luxury",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "new",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "pool",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "elevator",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "fully furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "kitchen",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "maids",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "monthly",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "modern",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "wardrobe",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "private",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "gym",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "id": 3919695,
+      "ownerID": 2180246,
+      "userExternalID": "2180246",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+        "lat": 25.160984895945,
+        "lng": 55.423800982139
+      },
+      "geography": {
+        "lat": 25.160984895945,
+        "lng": 55.423800982139
+      },
+      "purpose": "for-rent",
+      "price": 3499.0,
+      "product": "superhot",
+      "productLabel": "default",
+      "productTruBrokerScore": 0,
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "21-107",
+      "projectNumber": null,
+      "permitNumber": null,
+      "title": "Classic Furnished Studio In Emirates Cluster.",
+      "title_l1": "\u0627\u0633\u062a\u0648\u062f\u064a\u0648 \u0645\u0641\u0631\u0648\u0634 \u0643\u0644\u0627\u0633\u064a\u0643\u064a \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a.",
+      "title_l2": "\u4f4d\u4e8e\u56fd\u9645\u57ce\uff0c\u963f\u8054\u914b\u793e\u533a\uff0cEMR-21 \u7684\u516c\u5bd3 3499 AED - 6594247",
+      "title_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0448\u043d\u043b \u0421\u0438\u0442\u0438\uff0c\u0415\u043c\u0438\u0440\u0430\u0442\u0441 \u041a\u043b\u0430\u0441\u0442\u0435\u0440\uff0cEMR-21, 3499 AED - 6594247",
+      "externalID": "6594247",
+      "slug": "classic-furnished-studio-in-emirates-cluster-6594247",
+      "location": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "5001",
+          "name": "UAE",
+          "name_l1": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+          "name_l2": "\u963f\u8054\u914b",
+          "name_l3": "\u041e\u0410\u042d",
+          "slug": "/uae"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "5002",
+          "name": "Dubai",
+          "name_l1": "\u062f\u0628\u064a",
+          "name_l2": "\u8fea\u62dc",
+          "name_l3": "\u0414\u0443\u0431\u0430\u0439",
+          "slug": "/dubai"
+        },
+        {
+          "id": 368,
+          "level": 2,
+          "externalID": "5317",
+          "name": "International City",
+          "name_l1": "\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629",
+          "name_l2": "\u56fd\u9645\u57ce",
+          "name_l3": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0448\u043d\u043b \u0421\u0438\u0442\u0438",
+          "slug": "/dubai/international-city",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 554,
+          "level": 3,
+          "externalID": "6776",
+          "name": "Emirates Cluster",
+          "name_l1": "\u0627\u0644\u062d\u064a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a",
+          "name_l2": "\u963f\u8054\u914b\u793e\u533a",
+          "name_l3": "\u0415\u043c\u0438\u0440\u0430\u0442\u0441 \u041a\u043b\u0430\u0441\u0442\u0435\u0440",
+          "slug": "/dubai/international-city/emirates-cluster",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 75397,
+          "level": 4,
+          "externalID": "14944",
+          "name": "EMR-21",
+          "name_l1": "EMR-21",
+          "name_l2": "EMR-21",
+          "name_l3": "EMR-21",
+          "slug": "/dubai/international-city/emirates-cluster/emr-21",
+          "type": "condo-building"
+        }
+      ],
+      "category": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "1",
+          "name": "Residential",
+          "name_l1": "\u0633\u0643\u0646\u064a",
+          "name_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "name_l3": "\u0416\u0438\u043b\u044b\u0435",
+          "slug": "residential",
+          "slug_l1": "residential",
+          "slug_l2": "residential",
+          "slug_l3": "residential",
+          "nameSingular": "Residential",
+          "nameSingular_l1": "\u0633\u0643\u0646\u064a",
+          "nameSingular_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "nameSingular_l3": "\u0416\u0438\u043b\u044b\u0435"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "4",
+          "name": "Apartments",
+          "name_l1": "\u0634\u0642\u0642",
+          "name_l2": "\u516c\u5bd3",
+          "name_l3": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b",
+          "slug": "apartments",
+          "slug_l1": "apartments",
+          "slug_l2": "apartments",
+          "slug_l3": "apartments",
+          "nameSingular": "Apartment",
+          "nameSingular_l1": "\u0634\u0642\u0629",
+          "nameSingular_l2": "\u516c\u5bd3",
+          "nameSingular_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+      ],
+      "createdAt": 1669642126.0,
+      "updatedAt": 1762265472.0,
+      "reactivatedAt": 1745589147.815644,
+      "rooms": 0,
+      "baths": 1,
+      "area": 40.22701632,
+      "score": 75,
+      "score_l1": 75,
+      "score_l2": 75,
+      "score_l3": 75,
+      "boostedScore_l1": 511,
+      "boostedScore_l2": 497,
+      "boostedScore_l3": 497,
+      "deltaScore_l1": 570,
+      "deltaScore_l2": 570,
+      "deltaScore_l3": 570,
+      "coverPhoto": {
+        "id": 352422626,
+        "externalID": "140253848",
+        "title": null,
+        "orderIndex": 0,
+        "nimaScore": 9.110223137845026,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/352422626/4772f610596d4effbee697760508276d",
+        "main": true,
+        "type": "listing"
+      },
+      "photoCount": 10,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+        "mobile": "+971529088553",
+        "phone": "+97145841318",
+        "whatsapp": "971545695868",
+        "proxyMobile": "+971588038401",
+        "phoneNumbers": [
+          "+97145841318"
+        ],
+        "mobileNumbers": [
+          "+971529088553"
+        ]
+      },
+      "contactMethodAvailability": {
+        "whatsapp": true,
+        "sms": true,
+        "email": true,
+        "call": true
+      },
+      "contactName": "Mohammad Hassan",
+      "agency": {
+        "id": 29558117,
+        "objectID": 29558117,
+        "name": "Top Class Vacation Homes",
+        "name_l1": "\u062a\u0648\u0628 \u0643\u0644\u0627\u0633 \u0641\u0627\u0643\u064a\u0634\u0646 \u0647\u0648\u0645\u0632",
+        "name_l2": "Top Class Vacation Homes",
+        "name_l3": "Top Class Vacation Homes",
+        "externalID": "9372",
+        "product": "premium",
+        "productScore": 2,
+        "location": "Dubai",
+        "location_l1": "\u062f\u0628\u064a",
+        "location_l2": "\u8fea\u62dc",
+        "location_l3": "\u0414\u0443\u0431\u0430\u0439",
+        "licenses": [],
+        "logo": {
+          "id": 88486867,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/88486867/98eb48f9153a4809b66ea3a14894f665"
+        },
+        "slug": "top-class-vacation-homes-9372",
+        "slug_l1": "top-class-vacation-homes-9372",
+        "slug_l2": "top-class-vacation-homes-9372",
+        "slug_l3": "top-class-vacation-homes-9372",
+        "tr": 2,
+        "tier": 2,
+        "roles": [
+          "hide_ads_permit_number",
+          "hide_agents_brn_number"
+        ],
+        "active": true,
+        "createdAt": "2020-02-27T02:08:55+00:00",
+        "commercialNumber": null,
+        "shortNumber": null,
+        "type": "agency",
+        "performanceCohort": "overachieving"
+      },
+      "hash": "6d5641e",
+      "keywords": [
+        "gym",
+        "restaurant",
+        "owner",
+        "with balcony",
+        "balcony",
+        "furnished",
+        "office",
+        "family"
+      ],
+      "keywords_l1": [
+        "\u0645\u0643\u062a\u0628",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u0645\u0641\u0631\u0648\u0634",
+        "\u0645\u0639 \u0634\u0631\u0641\u0629",
+        "\u0645\u0639 \u0628\u0644\u0643\u0648\u0646\u0629",
+        "\u0628\u0644\u0643\u0648\u0646\u0629",
+        "\u0645\u0624\u062b\u062b\u0629",
+        "\u0645\u0637\u0639\u0645",
+        "\u0646\u0627\u062f\u064a \u0631\u064a\u0627\u0636\u064a",
+        "\u0639\u0648\u0627\u0626\u0644",
+        "\u0644\u0644\u0639\u0648\u0627\u0626\u0644",
+        "\u0645\u0627\u0644\u0643"
+      ],
+      "isVerified": true,
+      "verification": {
+        "updatedAt": 1762265477.497846,
+        "eligible": true,
+        "status": "verified",
+        "verifiedAt": 1762265472.0,
+        "trucheckedAt": 1762265472.0
+      },
+      "verifiedScore": 0,
+      "verifiedPopularScore": 0,
+      "trucheckedScore": 1762265472.0,
+      "trucheckedPopularScore": 1762265472.0,
+      "truBrokerScore": 1,
+      "occupancyStatus": "vacant",
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {
+        "dldBuildingNK": "tabu-5422645",
+        "hasRentTransactions": true,
+        "hasSaleTransactions": true,
+        "dldPropertySK": "6594247"
+      },
+      "type": "property",
+      "ownerAgent": {
+        "externalID": "2180246",
+        "name": "Mohammad Hassan",
+        "name_l1": "Mohammad Hassan",
+        "name_l2": "Mohammad Hassan",
+        "name_l3": "Mohammad Hassan",
+        "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/506136824/210db423081143b9a8530cee3e4066e2",
+        "user_image_id": 506136824,
+        "isTruBroker": false,
+        "slug": "mohammad-hassan-2180246",
+        "state": "active",
+        "isProfileCompleted": true,
+        "isComplete": true
+      },
+      "amenities": [
+        "Waste Disposal",
+        "First Aid Medical Center",
+        "Maintenance Staff",
+        "Security Staff",
+        "CCTV Security",
+        "Cafeteria or Canteen",
+        "Freehold",
+        "Furnished",
+        "ATM Facility",
+        "Lawn or Garden",
+        "Reception/Waiting Room",
+        "Laundry Facility",
+        "Facilities for Disabled",
+        "Balcony or Terrace",
+        "Lobby in Building",
+        "Double Glazed Windows",
+        "Centrally Air-Conditioned",
+        "View",
+        "Floor",
+        "Elevators in Building",
+        "Nearby Hospitals",
+        "Nearby Shopping Malls",
+        "Distance From Airport (kms)",
+        "Nearby Public Transport",
+        "Number of Bathrooms",
+        "Parking Spaces",
+        "Total Floors",
+        "Broadband Internet",
+        "Satellite/Cable TV"
+      ],
+      "amenities_l1": [
+        "\u0645\u0643\u0628\u0651 \u0646\u0641\u0627\u064a\u0627\u062a",
+        "\u0645\u0631\u0643\u0632 \u0644\u0644\u0625\u0633\u0639\u0627\u0641\u0627\u062a \u0627\u0644\u0623\u0648\u0644\u064a\u0629",
+        "\u062e\u062f\u0645\u0627\u062a \u0635\u064a\u0627\u0646\u0629",
+        "\u0623\u0645\u0646 \u0648 \u062d\u0645\u0627\u064a\u0629",
+        "\u0646\u0638\u0627\u0645 \u0643\u0627\u0645\u064a\u0631\u0627\u062a \u0645\u0631\u0627\u0642\u0628\u0629",
+        "\u0643\u0627\u0641\u064a\u062a\u064a\u0631\u064a\u0627",
+        "\u0627\u0644\u062a\u0645\u0644\u0643 \u0627\u0644\u062d\u0631",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u062a\u0648\u0641\u0631 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0633\u062d\u0628 \u0627\u0644\u0622\u0644\u064a",
+        "\u062d\u062f\u064a\u0642\u0629",
+        "\u063a\u0631\u0641\u0629 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 /\u0627\u0646\u062a\u0638\u0627\u0631",
+        "\u062e\u062f\u0645\u0629 \u063a\u0633\u064a\u0644 \u0645\u0644\u0627\u0628\u0633",
+        "\u062a\u0633\u0647\u064a\u0644\u0627\u062a \u0644\u0623\u0635\u062d\u0627\u0628 \u0627\u0644\u0647\u0645\u0645",
+        "\u0634\u0631\u0641\u0629 \u0623\u0648 \u062a\u0631\u0627\u0633",
+        "\u0631\u062f\u0647\u0629 \u0625\u0633\u062a\u0642\u0628\u0627\u0644",
+        "\u0646\u0648\u0627\u0641\u0630 \u0632\u062c\u0627\u062c\u064a\u0629 \u0645\u0632\u062f\u0648\u062c\u0629",
+        "\u0646\u0638\u0627\u0645 \u062a\u0628\u0631\u064a\u062f \u0645\u0631\u0643\u0632\u064a",
+        "\u0645\u0637\u0644",
+        "\u0637\u0627\u0628\u0642",
+        "\u0645\u0635\u0627\u0639\u062f",
+        "\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a \u0642\u0631\u064a\u0628\u0629",
+        "\u0645\u0631\u0627\u0643\u0632 \u062a\u0633\u0648\u0642 \u0642\u0631\u064a\u0628\u0629",
+        "\u0627\u0644\u0645\u0633\u0627\u0641\u0629 \u0645\u0646 \u0627\u0644\u0645\u0637\u0627\u0631 (\u0643\u0645)",
+        "\u0645\u0648\u0627\u0635\u0644\u0627\u062a \u0646\u0642\u0644 \u0639\u0627\u0645\u0629 \u0642\u0631\u064a\u0628\u0629",
+        "\u0639\u062f\u062f \u062f\u0648\u0631\u0627\u062a \u0627\u0644\u0645\u064a\u0627\u0647",
+        "\u0645\u0648\u0627\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+        "\u0639\u062f\u062f \u0627\u0644\u0637\u0648\u0627\u0628\u0642",
+        "\u0627\u0646\u062a\u0631\u0646\u062a \u0648\u0627\u0633\u0639 \u0627\u0644\u0646\u0637\u0627\u0642",
+        "\u0643\u0627\u0628\u0644 \u0642\u0646\u0648\u0627\u062a \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629"
+      ],
+      "amenities_l2": [
+        "\u5783\u573e\u5904\u7406",
+        "\u6025\u6551\u4e2d\u5fc3",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u5168\u90e8\u697c\u5c42",
+        "\u95ed\u8def\u7535\u89c6\u5b89\u5168",
+        "\u81ea\u52a9\u9910\u5385\u6216\u98df\u5802",
+        "\u6c38\u4e45\u4ea7\u6743",
+        "\u914d\u5907\u5bb6\u5177",
+        "\u81ea\u52a8\u53d6\u6b3e\u673a",
+        "\u7eff\u5316",
+        "\u6851\u62ff",
+        "\u6d17\u8863\u8bbe\u65bd",
+        "\u6b8b\u969c\u4eba\u58eb\u8bbe\u65bd",
+        "\u9633\u53f0",
+        "\u5165\u6237\u5927\u5802",
+        "\u53cc\u5c42\u73bb\u7483\u7a97",
+        "\u4e2d\u592e\u7a7a\u8c03",
+        "\u666f\u89c2",
+        "\u697c\u5c42",
+        "\u7535\u68af",
+        "\u6b8b\u969c\u4eba\u58eb\u8bbe\u65bd",
+        "\u6cca\u8f66\u4f4d",
+        "\u50a8\u7269\u533a",
+        "\u4e66\u623f",
+        "\u536b\u6d74\u6570",
+        "\u6cca\u8f66\u4f4d",
+        "\u5168\u90e8\u697c\u5c42",
+        "\u5bbd\u5e26\u7f51\u7edc",
+        "\u536b\u661f\u7535\u89c6/\u6709\u7ebf\u7535\u89c6"
+      ],
+      "amenities_l3": [
+        "\u0423\u0442\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0442\u0445\u043e\u0434\u043e\u0432",
+        "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u0441\u043a\u043e\u0440\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438",
+        "\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b",
+        "\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0438\u0434\u0435\u043e\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f",
+        "\u041a\u0430\u0444\u0435\u0442\u0435\u0440\u0438\u0439 \u0438\u043b\u0438 \u0441\u0442\u043e\u043b\u043e\u0432\u0430\u044f",
+        "\u041f\u0440\u0430\u0432\u043e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+        "\u041c\u0435\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439",
+        "\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442",
+        "\u0413\u0430\u0437\u043e\u043d \u0438\u043b\u0438 \u0441\u0430\u0434",
+        "\u041f\u0440\u0438\u0435\u043c/\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f",
+        "\u043f\u0440\u0430\u0447\u0435\u0447\u043d\u0430\u044f",
+        "\u0423\u0441\u043b\u0443\u0433\u0438 \u0434\u043b\u044f \u0438\u043d\u0432\u0430\u043b\u0438\u0434\u043e\u0432",
+        "\u0411\u0430\u043b\u043a\u043e\u043d \u0438\u043b\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430",
+        "\u041b\u043e\u0431\u0431\u0438 \u0432 \u0437\u0434\u0430\u043d\u0438\u0438",
+        "\u041e\u043a\u043d\u0430 \u0441 \u0434\u0432\u043e\u0439\u043d\u044b\u043c \u043e\u0441\u0442\u0435\u043a\u043b\u0435\u043d\u0438\u0435\u043c",
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "\u0412\u0438\u0434",
+        "\u041f\u043e\u043b",
+        "\u041b\u0438\u0444\u0442\u044b \u0432 \u0437\u0434\u0430\u043d\u0438\u0438",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u044b",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0435 \u0446\u0435\u043d\u0442\u0440\u044b",
+        "\u0420\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u043e\u0442 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442\u0430 (\u043a\u043c)",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0439 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442",
+        "\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0430\u043d\u043d\u044b\u0445 \u043a\u043e\u043c\u043d\u0430\u0442",
+        "\u041f\u0430\u0440\u043a\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430",
+        "\u0412\u0441\u0435\u0433\u043e \u044d\u0442\u0430\u0436\u0435\u0439",
+        "\u0428\u0438\u0440\u043e\u043a\u043e\u043f\u043e\u043b\u043e\u0441\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+        "\u0421\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0435/\u043a\u0430\u0431\u0435\u043b\u044c\u043d\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435"
+      ],
+      "completionStatus": "completed",
+      "hasProject": false,
+      "agentAdStoriesCount": 0,
+      "hasUnitPlan": false,
+      "cityLevelScore": 1,
+      "indyScore": 611,
+      "indyScore_l1": 511,
+      "indyScore_l2": 497,
+      "indyScore_l3": 497,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+        352422626,
+        352422625,
+        352422628,
+        352422629,
+        352422630,
+        352422631,
+        352422632,
+        352422633,
+        352422634,
+        352422635
+      ],
+      "hidePrice": false,
+      "locationPurposeTier": 4,
+      "plotArea": null,
+      "objectID": "3919695",
+      "_highlightResult": {
+        "referenceNumber": {
+          "value": "21-107",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title": {
+          "value": "Classic Furnished Studio In Emirates Cluster.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l1": {
+          "value": "\u0627\u0633\u062a\u0648\u062f\u064a\u0648 \u0645\u0641\u0631\u0648\u0634 \u0643\u0644\u0627\u0633\u064a\u0643\u064a \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l2": {
+          "value": "\u4f4d\u4e8e\u56fd\u9645\u57ce\uff0c\u963f\u8054\u914b\u793e\u533a\uff0cEMR-21 \u7684\u516c\u5bd3 3499 AED - 6594247",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l3": {
+          "value": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0448\u043d\u043b \u0421\u0438\u0442\u0438\uff0c\u0415\u043c\u0438\u0440\u0430\u0442\u0441 \u041a\u043b\u0430\u0441\u0442\u0435\u0440\uff0cEMR-21, 3499 AED - 6594247",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "externalID": {
+          "value": "6594247",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "agency": {
+          "name": {
+            "value": "Top Class Vacation Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l1": {
+            "value": "\u062a\u0648\u0628 \u0643\u0644\u0627\u0633 \u0641\u0627\u0643\u064a\u0634\u0646 \u0647\u0648\u0645\u0632",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l2": {
+            "value": "Top Class Vacation Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l3": {
+            "value": "Top Class Vacation Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "keywords": [
+          {
+            "value": "gym",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "restaurant",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "owner",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "with balcony",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "balcony",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "office",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "family",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "id": 6213160,
+      "ownerID": 1982194,
+      "userExternalID": "1982194",
+      "sourceID": 1,
+      "state": "active",
+      "_geoloc": {
+        "lat": 25.172687222836,
+        "lng": 55.309453878187
+      },
+      "geography": {
+        "lat": 25.172687222836,
+        "lng": 55.309453878187
+      },
+      "purpose": "for-rent",
+      "price": 11999.0,
+      "product": "superhot",
+      "productLabel": "default",
+      "productTruBrokerScore": 0,
+      "productScore": 0,
+      "rentFrequency": "monthly",
+      "referenceNumber": "PKH-0308",
+      "projectNumber": null,
+      "permitNumber": null,
+      "title": "Brand New | Designer Furnished | All Bills Included",
+      "title_l1": "\u0634\u0642\u0629 \u0641\u064a \u0639\u0632\u064a\u0632\u064a \u0631\u064a\u0641\u064a\u0631\u0627 44\u060c\u0631\u064a\u0641\u064a\u0631\u0627\u060c\u0645\u064a\u062f\u0627\u0646 \u0648\u0646\u060c\u0645\u062f\u064a\u0646\u0629 \u0645\u064a\u062f\u0627\u0646 1 \u063a\u0631\u0641\u0629 11999 \u062f\u0631\u0647\u0645 - 9255380",
+      "title_l2": "\u4f4d\u4e8e\u6885\u4e39\u57ce\uff0c\u6885\u4e39\u4e00\u53f7\uff0c\u963f\u9f50\u5179\u91cc\u7ef4\u57c3\u62c9\u793e\u533a\uff0c\u963f\u9f50\u5179\u91cc\u7ef4\u57c3\u62c944\u53f7\u697c 1 \u5367\u5ba4\u7684\u516c\u5bd3 11999 AED - 9255380",
+      "title_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u041c\u0435\u0439\u0434\u0430\u043d \u0421\u0438\u0442\u0438\uff0c\u041c\u0435\u0439\u0434\u0430\u043d \u0423\u0430\u043d\uff0c\u0410\u0437\u0438\u0437\u0438 \u0420\u0438\u0432\u044c\u0435\u0440\u0430\uff0c\u0410\u0437\u0438\u0437\u0438 \u0420\u0438\u0432\u044c\u0435\u0440\u0430 44, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 11999 AED - 9255380",
+      "externalID": "9255380",
+      "slug": "brand-new-designer-furnished-all-bills-included-9255380",
+      "location": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "5001",
+          "name": "UAE",
+          "name_l1": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+          "name_l2": "\u963f\u8054\u914b",
+          "name_l3": "\u041e\u0410\u042d",
+          "slug": "/uae"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "5002",
+          "name": "Dubai",
+          "name_l1": "\u062f\u0628\u064a",
+          "name_l2": "\u8fea\u62dc",
+          "name_l3": "\u0414\u0443\u0431\u0430\u0439",
+          "slug": "/dubai"
+        },
+        {
+          "id": 43,
+          "level": 2,
+          "externalID": "6854",
+          "name": "Meydan City",
+          "name_l1": "\u0645\u062f\u064a\u0646\u0629 \u0645\u064a\u062f\u0627\u0646",
+          "name_l2": "\u6885\u4e39\u57ce",
+          "name_l3": "\u041c\u0435\u0439\u0434\u0430\u043d \u0421\u0438\u0442\u0438",
+          "slug": "/dubai/meydan-city",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 2331,
+          "level": 3,
+          "externalID": "9384",
+          "name": "Meydan One",
+          "name_l1": "\u0645\u064a\u062f\u0627\u0646 \u0648\u0646",
+          "name_l2": "\u6885\u4e39\u4e00\u53f7",
+          "name_l3": "\u041c\u0435\u0439\u0434\u0430\u043d \u0423\u0430\u043d",
+          "slug": "/dubai/meydan-city/meydan-one",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 5081,
+          "level": 4,
+          "externalID": "11261",
+          "name": "Azizi Riviera",
+          "name_l1": "\u0631\u064a\u0641\u064a\u0631\u0627",
+          "name_l2": "\u963f\u9f50\u5179\u91cc\u7ef4\u57c3\u62c9\u793e\u533a",
+          "name_l3": "\u0410\u0437\u0438\u0437\u0438 \u0420\u0438\u0432\u044c\u0435\u0440\u0430",
+          "slug": "/dubai/meydan-city/meydan-one/azizi-riviera",
+          "type": "neighbourhood"
+        },
+        {
+          "id": 80785,
+          "level": 5,
+          "externalID": "16900",
+          "name": "Azizi Riviera 44",
+          "name_l1": "\u0639\u0632\u064a\u0632\u064a \u0631\u064a\u0641\u064a\u0631\u0627 44",
+          "name_l2": "\u963f\u9f50\u5179\u91cc\u7ef4\u57c3\u62c944\u53f7\u697c",
+          "name_l3": "\u0410\u0437\u0438\u0437\u0438 \u0420\u0438\u0432\u044c\u0435\u0440\u0430 44",
+          "slug": "/dubai/meydan-city/meydan-one/azizi-riviera/azizi-riviera-44",
+          "type": "condo-building"
+        }
+      ],
+      "category": [
+        {
+          "id": 1,
+          "level": 0,
+          "externalID": "1",
+          "name": "Residential",
+          "name_l1": "\u0633\u0643\u0646\u064a",
+          "name_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "name_l3": "\u0416\u0438\u043b\u044b\u0435",
+          "slug": "residential",
+          "slug_l1": "residential",
+          "slug_l2": "residential",
+          "slug_l3": "residential",
+          "nameSingular": "Residential",
+          "nameSingular_l1": "\u0633\u0643\u0646\u064a",
+          "nameSingular_l2": "\u5c45\u4f4f\u7269\u4e1a",
+          "nameSingular_l3": "\u0416\u0438\u043b\u044b\u0435"
+        },
+        {
+          "id": 2,
+          "level": 1,
+          "externalID": "4",
+          "name": "Apartments",
+          "name_l1": "\u0634\u0642\u0642",
+          "name_l2": "\u516c\u5bd3",
+          "name_l3": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b",
+          "slug": "apartments",
+          "slug_l1": "apartments",
+          "slug_l2": "apartments",
+          "slug_l3": "apartments",
+          "nameSingular": "Apartment",
+          "nameSingular_l1": "\u0634\u0642\u0629",
+          "nameSingular_l2": "\u516c\u5bd3",
+          "nameSingular_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+      ],
+      "createdAt": 1719921322.0,
+      "updatedAt": 1762311466.0,
+      "reactivatedAt": 1746012273.377439,
+      "rooms": 1,
+      "baths": 2,
+      "area": 75.53017152000001,
+      "score": 75,
+      "score_l1": 75,
+      "score_l2": 75,
+      "score_l3": 75,
+      "boostedScore_l1": 781,
+      "boostedScore_l2": 647,
+      "boostedScore_l3": 781,
+      "deltaScore_l1": 530,
+      "deltaScore_l2": 530,
+      "deltaScore_l3": 530,
+      "coverPhoto": {
+        "id": 729101613,
+        "externalID": "177549097",
+        "title": null,
+        "orderIndex": 0,
+        "nimaScore": 9.349788761785362,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/729101613/5ec4e27135ae4a9084aca881c7d598c1",
+        "main": true,
+        "type": "listing"
+      },
+      "photoCount": 29,
+      "videoCount": 0,
+      "panoramaCount": 0,
+      "phoneNumber": {
+        "mobile": "+971556264685",
+        "phone": "+97144541140",
+        "whatsapp": "971545695868",
+        "proxyPhone": "+97145428504",
+        "phoneNumbers": [
+          "+97144541140"
+        ],
+        "mobileNumbers": [
+          "+971556264685"
+        ]
+      },
+      "contactMethodAvailability": {
+        "whatsapp": true,
+        "sms": true,
+        "email": true,
+        "call": true
+      },
+      "contactName": "Eman Muhammad",
+      "agency": {
+        "id": 29567597,
+        "objectID": 29567597,
+        "name": "PK Holiday Homes",
+        "name_l1": "\u064a\u064a \u0643\u064a\u0647 \u0644\u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u0627\u062a",
+        "name_l2": "PK Holiday Homes",
+        "name_l3": "PK Holiday Homes",
+        "externalID": "9766",
+        "product": "premium",
+        "productScore": 2,
+        "location": "Dubai",
+        "location_l1": "\u062f\u0628\u064a",
+        "location_l2": "\u8fea\u62dc",
+        "location_l3": "\u0414\u0443\u0431\u0430\u0439",
+        "licenses": [],
+        "logo": {
+          "id": 92628394,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/92628394/221b3516017f40a28c4a53fe8c73d5bd"
+        },
+        "slug": "pk-holiday-homes-9766",
+        "slug_l1": "pk-holiday-homes-9766",
+        "slug_l2": "pk-holiday-homes-9766",
+        "slug_l3": "pk-holiday-homes-9766",
+        "tr": 3,
+        "tier": 3,
+        "roles": [
+          "hide_agents_brn_number",
+          "hide_ads_permit_number"
+        ],
+        "active": true,
+        "createdAt": "2020-06-28T03:29:05+00:00",
+        "commercialNumber": null,
+        "shortNumber": null,
+        "type": "agency",
+        "performanceCohort": "overachieving"
+      },
+      "hash": "0da3784",
+      "keywords": [
+        "family",
+        "mall",
+        "bills included",
+        "all bills",
+        "brand new",
+        "community",
+        "pool",
+        "chiller",
+        "new",
+        "parking",
+        "modern",
+        "all bills included",
+        "balcony",
+        "bills",
+        "gym",
+        "sea",
+        "furnished"
+      ],
+      "keywords_l1": [
+        "\u062c\u062f\u064a\u062f\u0629 \u0627\u0648\u0644 \u0633\u0627\u0643\u0646",
+        "\u0645\u0648\u062f\u0631\u0646",
+        "\u0628\u062d\u0631",
+        "\u0646\u0627\u062f\u064a \u0631\u064a\u0627\u0636\u064a",
+        "\u0645\u0633\u0628\u062d",
+        "\u0627\u0648\u0644 \u0633\u0627\u0643\u0646",
+        "\u062d\u062f\u064a\u062b\u0629",
+        "\u062a\u0643\u064a\u064a\u0641",
+        "\u0645\u0624\u062b\u062b\u0629",
+        "\u0641\u0648\u0627\u062a\u064a\u0631",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u0634\u0627\u0645\u0644 \u0627\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0621",
+        "\u0643\u0644 \u0627\u0644\u0641\u0648\u0627\u062a\u064a\u0631",
+        "\u0645\u0641\u0631\u0648\u0634",
+        "\u0645\u0648\u0644",
+        "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0629",
+        "\u0633\u0627\u0643\u0646 \u0627\u0648\u0644",
+        "\u0645\u062c\u0645\u0651\u0639 \u0633\u0643\u0646\u064a",
+        "\u0634\u0627\u0645\u0644",
+        "\u0627\u064a\u062c\u0627\u0631 \u062c\u062f\u064a\u062f",
+        "\u0628\u0644\u0643\u0648\u0646\u0629",
+        "\u062c\u062f\u064a\u062f\u0629",
+        "\u0644\u0644\u0639\u0648\u0627\u0626\u0644",
+        "\u0639\u0648\u0627\u0626\u0644"
+      ],
+      "isVerified": true,
+      "verification": {
+        "updatedAt": 1762260690.082404,
+        "eligible": true,
+        "status": "verified",
+        "verifiedAt": 1762260683.0,
+        "trucheckedAt": 1762260683.0
+      },
+      "verifiedScore": 0,
+      "verifiedPopularScore": 0,
+      "trucheckedScore": 1762260683.0,
+      "trucheckedPopularScore": 1762260683.0,
+      "truBrokerScore": 0,
+      "floorPlanID": null,
+      "furnishingStatus": "furnished",
+      "extraFields": {
+        "dldBuildingNK": "tabu-381100447",
+        "hasSaleTransactions": true,
+        "dldPropertySK": "9255380"
+      },
+      "type": "property",
+      "ownerAgent": {
+        "externalID": "1982194",
+        "name": "Eman Muhammad",
+        "name_l1": "Eman Muhammad",
+        "name_l2": "Eman Muhammad",
+        "name_l3": "Eman Muhammad",
+        "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/311456980/04bf15d2a3044c54ba44c5d3b35620fe",
+        "user_image_id": 311456980,
+        "isTruBroker": true,
+        "slug": "eman-muhammad-1982194",
+        "state": "active",
+        "isProfileCompleted": true,
+        "isComplete": true
+      },
+      "amenities": [
+        "Gym or Health Club",
+        "Maintenance Staff",
+        "Furnished",
+        "ATM Facility",
+        "Kids Play Area",
+        "Laundry Facility",
+        "Balcony or Terrace",
+        "View",
+        "Parking Spaces",
+        "Satellite/Cable TV"
+      ],
+      "amenities_l1": [
+        "\u0635\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u0646\u0627\u062f\u064a \u0635\u062d\u064a",
+        "\u062e\u062f\u0645\u0627\u062a \u0635\u064a\u0627\u0646\u0629",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u062a\u0648\u0641\u0631 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0633\u062d\u0628 \u0627\u0644\u0622\u0644\u064a",
+        "\u0645\u0646\u0637\u0642\u0629 \u0644\u0639\u0628 \u0644\u0644\u0623\u0637\u0641\u0627\u0644",
+        "\u062e\u062f\u0645\u0629 \u063a\u0633\u064a\u0644 \u0645\u0644\u0627\u0628\u0633",
+        "\u0634\u0631\u0641\u0629 \u0623\u0648 \u062a\u0631\u0627\u0633",
+        "\u0645\u0637\u0644",
+        "\u0645\u0648\u0627\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+        "\u0643\u0627\u0628\u0644 \u0642\u0646\u0648\u0627\u062a \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629"
+      ],
+      "amenities_l2": [
+        "\u5065\u8eab\u623f\u6216\u5065\u8eab\u4ff1\u4e50\u90e8",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u914d\u5907\u5bb6\u5177",
+        "\u81ea\u52a8\u53d6\u6b3e\u673a",
+        "\u513f\u7ae5\u5a31\u4e50\u533a",
+        "\u6d17\u8863\u8bbe\u65bd",
+        "\u9633\u53f0",
+        "\u666f\u89c2",
+        "\u6cca\u8f66\u4f4d",
+        "\u536b\u661f\u7535\u89c6/\u6709\u7ebf\u7535\u89c6"
+      ],
+      "amenities_l3": [
+        "\u0422\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u043d\u044b\u0439 \u0437\u0430\u043b \u0438\u043b\u0438 \u043e\u0437\u0434\u043e\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0443\u0431",
+        "\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b",
+        "\u041c\u0435\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439",
+        "\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442",
+        "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u043e\u0432\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430",
+        "\u043f\u0440\u0430\u0447\u0435\u0447\u043d\u0430\u044f",
+        "\u0411\u0430\u043b\u043a\u043e\u043d \u0438\u043b\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430",
+        "\u0412\u0438\u0434",
+        "\u041f\u0430\u0440\u043a\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430",
+        "\u0421\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0435/\u043a\u0430\u0431\u0435\u043b\u044c\u043d\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435"
+      ],
+      "completionStatus": "completed",
+      "hasProject": false,
+      "agentAdStoriesCount": 0,
+      "hasUnitPlan": false,
+      "cityLevelScore": 1,
+      "indyScore": 781,
+      "indyScore_l1": 781,
+      "indyScore_l2": 647,
+      "indyScore_l3": 781,
+      "hasMatchingFloorPlans": false,
+      "photoIDs": [
+        729101613,
+        729101801,
+        729101807,
+        729101611,
+        729101612,
+        729101802,
+        729101803,
+        729101804,
+        729101805,
+        729101806,
+        729101808,
+        729101809,
+        729101810,
+        729101811,
+        729101812,
+        729101813,
+        729101814,
+        729101815,
+        729101816,
+        729101817,
+        729101818,
+        729101819,
+        729101820,
+        729101821,
+        729101822,
+        729101826,
+        729101823,
+        729101824,
+        729101825
+      ],
+      "hidePrice": false,
+      "locationPurposeTier": 2,
+      "plotArea": null,
+      "objectID": "6213160",
+      "_highlightResult": {
+        "referenceNumber": {
+          "value": "PKH-0308",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title": {
+          "value": "Brand New | Designer Furnished | All Bills Included",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l1": {
+          "value": "\u0634\u0642\u0629 \u0641\u064a \u0639\u0632\u064a\u0632\u064a \u0631\u064a\u0641\u064a\u0631\u0627 44\u060c\u0631\u064a\u0641\u064a\u0631\u0627\u060c\u0645\u064a\u062f\u0627\u0646 \u0648\u0646\u060c\u0645\u062f\u064a\u0646\u0629 \u0645\u064a\u062f\u0627\u0646 1 \u063a\u0631\u0641\u0629 11999 \u062f\u0631\u0647\u0645 - 9255380",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l2": {
+          "value": "\u4f4d\u4e8e\u6885\u4e39\u57ce\uff0c\u6885\u4e39\u4e00\u53f7\uff0c\u963f\u9f50\u5179\u91cc\u7ef4\u57c3\u62c9\u793e\u533a\uff0c\u963f\u9f50\u5179\u91cc\u7ef4\u57c3\u62c944\u53f7\u697c 1 \u5367\u5ba4\u7684\u516c\u5bd3 11999 AED - 9255380",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "title_l3": {
+          "value": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u041c\u0435\u0439\u0434\u0430\u043d \u0421\u0438\u0442\u0438\uff0c\u041c\u0435\u0439\u0434\u0430\u043d \u0423\u0430\u043d\uff0c\u0410\u0437\u0438\u0437\u0438 \u0420\u0438\u0432\u044c\u0435\u0440\u0430\uff0c\u0410\u0437\u0438\u0437\u0438 \u0420\u0438\u0432\u044c\u0435\u0440\u0430 44, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 11999 AED - 9255380",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "externalID": {
+          "value": "9255380",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "agency": {
+          "name": {
+            "value": "PK Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l1": {
+            "value": "\u064a\u064a \u0643\u064a\u0647 \u0644\u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u0627\u062a",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l2": {
+            "value": "PK Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name_l3": {
+            "value": "PK Holiday Homes",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "keywords": [
+          {
+            "value": "family",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "mall",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "bills included",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "all bills",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "brand new",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "community",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "pool",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "chiller",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "new",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "parking",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "modern",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "all bills included",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "balcony",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "bills",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "gym",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "sea",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "furnished",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    }
+  ],
+  "nbHits": 8381,
+  "page": 0,
+  "nbPages": 1677,
+  "hitsPerPage": 5,
+  "exhaustiveNbHits": true,
+  "exhaustive": {
+    "nbHits": true
+  },
+  "query": "",
+  "params": "filters=purpose:\"for-rent\" AND rentFrequency:\"monthly\" AND (location.externalID:\"5002\") AND category.externalID:\"4\" AND category.slug:\"residential\"&hitsPerPage=5&page=0",
+  "processingTimeMS": 5,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 103
+    },
+    "fetch": {
+      "scanning": 3,
+      "total": 4
+    },
+    "total": 5
+  },
+  "serverTimeMS": 6
+}
