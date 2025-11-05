@@ -15,23 +15,42 @@ class CryptoDataFetcher:
         self.coingecko_base = "https://api.coingecko.com/api/v3"
         self.defillama_base = "https://pro-api.llama.fi"
         self.headers = {"Content-Type": "application/json"}
+
+        # Load CoinGecko API key if available
+        self.coingecko_api_key = os.getenv("COINGECKO_API_KEY")
+        if self.coingecko_api_key:
+            # CoinGecko uses x-cg-demo-api-key header for free tier
+            # and x-cg-pro-api-key for pro tier
+            self.headers["x-cg-demo-api-key"] = self.coingecko_api_key
     
     def get_coin_data(self, coin_id: str) -> Dict:
         """
         Pulls price, supply, volume from CoinGecko and TVL from DeFiLlama
 
         Args:
-            coin_id: 'zcash', 'bitcoin', 'ethereum', etc.
+            coin_id: 'zcash', 'bitcoin', 'ethereum', etc. (case-insensitive)
 
         Returns:
             dict: Market data for the cryptocurrency including TVL
         """
-        url = f"{self.coingecko_base}/coins/{coin_id}"
+        # Normalize the coin_id to match CoinGecko's expected format
+        normalized_coin_id = get_coin_id(coin_id)
+        url = f"{self.coingecko_base}/coins/{normalized_coin_id}"
 
         try:
             resp = requests.get(url, headers=self.headers, timeout=10)
-            if resp.status_code != 200:
-                raise ValueError(f"Coin '{coin_id}' not found!")
+            if resp.status_code == 403:
+                raise ValueError(
+                    f"CoinGecko API access denied. "
+                    f"Please set up your COINGECKO_API_KEY in secure_config/api_keys.env. "
+                    f"Get a free API key at: https://www.coingecko.com/en/api"
+                )
+            elif resp.status_code == 404:
+                raise ValueError(f"Coin '{normalized_coin_id}' not found!")
+            elif resp.status_code != 200:
+                raise ValueError(
+                    f"CoinGecko API error (status {resp.status_code}): {resp.text[:200]}"
+                )
 
             data = resp.json()
             coin_data = {
@@ -58,7 +77,7 @@ class CryptoDataFetcher:
             return coin_data
 
         except Exception as e:
-            raise Exception(f"Failed to fetch data for {coin_id}: {str(e)}")
+            raise Exception(f"Failed to fetch data for {normalized_coin_id}: {str(e)}")
 
     def _estimate_tvl(self, coin_data: Dict) -> float:
         """
