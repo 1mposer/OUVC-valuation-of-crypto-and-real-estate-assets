@@ -22,7 +22,7 @@ from shared_utils.secrets_manager import load_secrets, get_secret
 # Page configuration
 st.set_page_config(
     page_title="OUVC - Over/Under Value Checker",
-    page_icon="📊",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -41,10 +41,9 @@ def init_session_state():
 
 def display_header():
     """Display application header"""
-    st.title("📊 OUVC - Over/Under Value Checker")
+    st.title(" OUVC - Over/Under Value Checker")
     st.markdown("""
-    Analyze the valuation of **cryptocurrencies** and **Dubai real estate properties**
-    using data-driven algorithms.
+    Analyze valuations using data-driven algorithms.
     """)
     st.divider()
 
