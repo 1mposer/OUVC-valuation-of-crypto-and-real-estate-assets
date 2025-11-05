@@ -267,7 +267,7 @@ def property_analysis_page():
                     property_type=property_type,
                     bedrooms=bedrooms,
                     size_sqft=size_sqft,
-                    asking_price=asking_price,
+                    asking_price_aed=asking_price,
                     use_api=use_api
                 )
 
