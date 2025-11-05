@@ -34,6 +34,25 @@ class Area(Enum):
     DISCOVERY_GARDENS = "discovery-gardens"
 
 
+def normalize_area(area_name: str) -> str:
+    """Normalize area name to match enum format (lowercase with hyphens)"""
+    # Create mapping from user-friendly names to enum values
+    area_mapping = {
+        "dubai marina": "dubai-marina",
+        "downtown dubai": "downtown-dubai",
+        "jbr": "jbr",
+        "palm jumeirah": "palm-jumeirah",
+        "business bay": "business-bay",
+        "difc": "difc",
+        "jvc": "jvc",
+        "sports city": "sports-city",
+        "discovery gardens": "discovery-gardens"
+    }
+
+    normalized_input = area_name.lower().strip()
+    return area_mapping.get(normalized_input, normalized_input.replace(" ", "-"))
+
+
 # Area-specific yield expectations (2024 market data)
 AREA_YIELDS = {
     Area.DUBAI_MARINA: {"min": 5.5, "avg": 6.8, "max": 8.2},
@@ -196,9 +215,14 @@ class DubaiPropertyValuator:
         """
         
         # Create target property
+        # Normalize property_type to lowercase to match enum values
+        property_type_normalized = property_type.lower() if isinstance(property_type, str) else property_type
+        # Normalize area to match enum format (lowercase with hyphens)
+        area_normalized = normalize_area(area) if isinstance(area, str) else area
+
         target = Property(
-            area=area,
-            property_type=PropertyType(property_type),
+            area=area_normalized,
+            property_type=PropertyType(property_type_normalized),
             bedrooms=bedrooms,
             bathrooms=kwargs.get("bathrooms", bedrooms),
             size_sqft=size_sqft,
